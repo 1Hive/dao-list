@@ -80,7 +80,6 @@ jobs:
           pinataKey: ${{ secrets.PINATA_API_KEY }}
           pinataSecret: ${{ secrets.PINATA_API_SECRET_KEY }}
 
-
       - name: Create GitHub Release
         id: create_release
         uses: actions/create-release@v1.1.0
