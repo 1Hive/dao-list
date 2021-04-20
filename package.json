@@ -1,33 +1,30 @@
 {
-  "name": "honeyswap-default-token-list",
-  "version": "2.22.0",
-  "description": "◦ The Honeyswap default token list",
-  "main": "build/honeyswap-default.tokenlist.json",
+  "name": "gardens-dao-list",
+  "version": "0.0.1",
+  "description": "Gardens MVP dao list",
+  "main": "build/gardens-dao-list.json",
   "scripts": {
     "test": "mocha",
-    "build": "rimraf build && mkdir -p build && node src/write.js > build/honeyswap-default.tokenlist.json",
+    "build": "rimraf build && mkdir -p build && node src/write.js > build/gardens-dao-list.json",
     "prepublishOnly": "npm test && npm run build"
   },
   "files": [
-    "build/honeyswap-default.tokenlist.json"
+    "build/gardens-dao-list.json"
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/1Hive/default-token-list.git"
+    "url": "git+https://github.com/1Hive/dao-list.git"
   },
   "keywords": [
-    "uniswap",
-    "honeyswap",
-    "default",
-    "token",
-    "list"
+    "1hive",
+    "gardens"
   ],
   "author": "Moody Salem",
   "license": "GPL-3.0-or-later",
   "bugs": {
-    "url": "https://github.com/1Hive/default-token-list.git/issues"
+    "url": "https://github.com/1Hive/dao-list.git/issues"
   },
-  "homepage": "https://github.com/1Hive/default-token-list.git#readme",
+  "homepage": "https://github.com/1Hive/dao-list.git#readme",
   "devDependencies": {
     "@ethersproject/address": "^5.0.2",
     "@uniswap/token-lists": "^1.0.0-beta.8",

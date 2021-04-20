@@ -1,10 +1,10 @@
 const { version } = require("../package.json");
-const xdai = require("./tokens/xdai.json");
+const rinkeby = require("./daos/rinkeby.json");
 
 module.exports = function buildList() {
   const parsed = version.split(".");
   return {
-    name: "Honeyswap Default",
+    name: "Gardens DAO List",
     timestamp: new Date().toISOString(),
     version: {
       major: +parsed[0],
@@ -13,14 +13,7 @@ module.exports = function buildList() {
     },
     tags: {},
     logoURI: "ipfs://Qma4TXHsoK3yVtEGCRVeezfVGzokPGLC49Hhyvd9Lf4x2j",
-    keywords: ["honeyswap", "xdai"],
-    tokens: [...xdai]
-      // sort them by symbol for easy readability
-      .sort((t1, t2) => {
-        if (t1.chainId === t2.chainId) {
-          return t1.symbol.toLowerCase() < t2.symbol.toLowerCase() ? -1 : 1;
-        }
-        return t1.chainId < t2.chainId ? -1 : 1;
-      }),
+    keywords: ["1Hive", "gardens"],
+    daos: [...rinkeby]
   };
 };
