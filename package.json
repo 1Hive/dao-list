@@ -1,6 +1,6 @@
 {
   "name": "gardens-dao-list",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Gardens MVP dao list",
   "main": "build/gardens-dao-list.json",
   "scripts": {
