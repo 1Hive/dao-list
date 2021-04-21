@@ -32,6 +32,7 @@ describe("buildList", () => {
 
   it("contains native token logo", () => {
     for (let dao of defaultTokenList.daos) {
+      console.log('dao ', dao)
       expect(typeof dao.nativeToken.logo).not.equal("undefined");
       expect(dao.nativeToken.logo.length).not.equal(0);
     }
