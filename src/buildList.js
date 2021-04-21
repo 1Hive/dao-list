@@ -1,6 +1,6 @@
 const { version } = require("../package.json");
 const rinkeby = require("./daos/rinkeby.json");
-
+//
 module.exports = function buildList() {
   const parsed = version.split(".");
   return {
