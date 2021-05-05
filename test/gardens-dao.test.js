@@ -32,15 +32,15 @@ describe("buildList", () => {
 
   it("contains native token logo", () => {
     for (let dao of defaultTokenList.daos) {
-      expect(typeof dao.nativeToken.logo).not.equal("undefined");
-      expect(dao.nativeToken.logo.length).not.equal(0);
+      expect(typeof dao.token.logo).not.equal("undefined");
+      expect(dao.token.logo.length).not.equal(0);
     }
   });
 
   it("contains wrapped token logo", () => {
     for (let dao of defaultTokenList.daos) {
-      expect(typeof dao.wrappedToken.logo).not.equal("undefined");
-      expect(dao.wrappedToken.logo.length).not.equal(0);
+      expect(typeof dao.wrappableToken.logo).not.equal("undefined");
+      expect(dao.wrappableToken.logo.length).not.equal(0);
     }
   });
 
