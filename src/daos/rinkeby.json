@@ -13,23 +13,23 @@
     "links": {
       "community": [
         {
-          "label":"discord",
+          "label":"Discord",
           "link": "https://discord.gg/4fm7pgB"
         }, 
         {
-          "label": "github",
+          "label": "Github",
           "link": "https://github.com/1Hive"
         },
         {
-          "label": "twitter",
+          "label": "Twitter",
           "link": "https://twitter.com/1HiveOrg"
         },
         {
-          "label": "telegram",
+          "label": "Telegram",
           "link": "https://t.me/honeyswapdex"
         },
         {
-          "label": "forum",
+          "label": "Forum",
           "link": "https://forum.1hive.org/"
         }
       ],
@@ -43,7 +43,7 @@
           "link":"https://wiki.1hive.org/community/security/bug-bounty"
         },
         {
-          "label":"FAQ",
+          "label":"FAQs",
           "link":"https://wiki.1hive.org/guides/faq"
         }
       ]
