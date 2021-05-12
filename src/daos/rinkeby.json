@@ -17,14 +17,34 @@
           "link": "https://discord.gg/4fm7pgB"
         }, 
         {
-          "label": "https://github.com/1Hive",
+          "label": "github",
           "link": "https://github.com/1Hive"
+        },
+        {
+          "label": "twitter",
+          "link": "https://twitter.com/1HiveOrg"
+        },
+        {
+          "label": "telegram",
+          "link": "https://t.me/honeyswapdex"
+        },
+        {
+          "label": "forum",
+          "link": "https://forum.1hive.org/"
         }
       ],
       "documentation": [
         {
           "label":"Wiki",
           "link":"https://wiki.1hive.org/"
+        },
+        {
+          "label":"BugBounty",
+          "link":"https://wiki.1hive.org/community/security/bug-bounty"
+        },
+        {
+          "label":"FAQ",
+          "link":"https://wiki.1hive.org/guides/faq"
         }
       ]
     }
