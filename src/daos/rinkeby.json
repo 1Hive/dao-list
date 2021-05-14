@@ -55,6 +55,9 @@
     "token":{
       "logo": "https://raw.githubusercontent.com/1Hive/dao-list/master/src/assets/rinkeby/0x85017d3aeef46411dfb41f13ecd547cbc809d1f0/nativeToken.png"
     },  
+    "wrappableToken":{
+      "logo": "https://raw.githubusercontent.com/1Hive/dao-list/master/src/assets/rinkeby/0x85017d3aeef46411dfb41f13ecd547cbc809d1f0/wrappedToken.png"
+    },
     "logo": "https://raw.githubusercontent.com/1Hive/dao-list/master/src/assets/rinkeby/0x85017d3aeef46411dfb41f13ecd547cbc809d1f0/logo.png",
     "logo_type": "https://raw.githubusercontent.com/1Hive/dao-list/master/src/assets/rinkeby/0x85017d3aeef46411dfb41f13ecd547cbc809d1f0/full_logo.png",
     "wiki" : "https://1hive.gitbook.io/1hive/",
