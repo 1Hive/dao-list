@@ -64,4 +64,17 @@ describe("buildList", () => {
       `${defaultTokenList.version.major}.${defaultTokenList.version.minor}.${defaultTokenList.version.patch}`
     );
   });
+
+  it("logos can not be svg extension", () => {
+    for (let dao of defaultTokenList.daos) {
+      expect(dao.logo).not.match(/\.(svg|SVG)$/)
+      expect(dao.logo_type).not.match(/\.(svg|SVG)$/)
+      if (dao.token.logo) {
+        expect(dao.token.logo).not.match(/\.(svg|SVG)$/)
+      }
+      if (dao.wrappableToken.logo) {
+        expect(dao.wrappableToken.logo).not.match(/\.(svg|SVG)$/)
+      }
+    }
+  })
 });
