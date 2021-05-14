@@ -37,13 +37,6 @@ describe("buildList", () => {
     }
   });
 
-  it("contains wrapped token logo", () => {
-    for (let dao of defaultTokenList.daos) {
-      expect(typeof dao.wrappableToken.logo).not.equal("undefined");
-      expect(dao.wrappableToken.logo.length).not.equal(0);
-    }
-  });
-
   it("contains dao name", () => {
     for (let dao of defaultTokenList.daos) {
       expect(typeof dao.name).not.equal("undefined");
@@ -64,4 +57,17 @@ describe("buildList", () => {
       `${defaultTokenList.version.major}.${defaultTokenList.version.minor}.${defaultTokenList.version.patch}`
     );
   });
+
+  it("logos only should be PNG extension", () => {
+    for (let dao of defaultTokenList.daos) {
+      expect(dao.logo).match(/\.(png|PNG)$/)
+      expect(dao.logo_type).match(/\.(png|PNG)$/)
+      if (dao.token && dao.token.logo) {
+        expect(dao.token.logo).match(/\.(png|PNG)$/)
+      }
+      if (dao.wrappableToken && dao.wrappableToken.logo) {
+        expect(dao.wrappableToken.logo).match(/\.(png|PNG)$/)
+      }
+    }
+  })
 });
