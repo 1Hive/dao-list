@@ -38,7 +38,7 @@
           "link": "https://wiki.1hive.org/"
         },
         {
-          "label": "BugBounty",
+          "label": "Bug Bounty",
           "link": "https://wiki.1hive.org/community/security/bug-bounty"
         },
         {
@@ -110,7 +110,7 @@
           "link": "https://wiki.1hive.org/"
         },
         {
-          "label": "BugBounty",
+          "label": "Bug Bounty",
           "link": "https://wiki.1hive.org/community/security/bug-bounty"
         },
         {
@@ -163,8 +163,8 @@
           "link": "https://brightid.gitbook.io/brightid/"
         },
         {
-          "label": "BugBounty",
-          "link": "https://brightid.gitbook.io/brightid/bounty-program"
+          "label": "Bug Bounty",
+          "link": "https://wiki.1hive.org/community/security/bug-bounty"
         },
         {
           "label": "FAQs",
