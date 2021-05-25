@@ -175,5 +175,45 @@
         }
       ]
     }
+  },
+  {
+    "address": "0x550c6e72f243f2e506585ae3a8a8cbfbed8e0ec0",
+    "name": "Agave",
+    "description": "Agave rewards depositors with passive income and lets them use their deposits as collateral to borrow and lend digital assets",
+    "token": {
+      "logo": "https://raw.githubusercontent.com/1Hive/dao-list/master/src/assets/rinkeby/0x550c6e72f243f2e506585ae3a8a8cbfbed8e0ec0/logo.png"
+    },
+    "logo": "https://raw.githubusercontent.com/1Hive/dao-list/master/src/assets/rinkeby/0x550c6e72f243f2e506585ae3a8a8cbfbed8e0ec0/logo.png",
+    "logo_type": "https://raw.githubusercontent.com/1Hive/dao-list/master/src/assets/rinkeby/0x550c6e72f243f2e506585ae3a8a8cbfbed8e0ec0/logo_type.png",
+    "links": {
+      "community": [
+        {
+          "label": "Discord",
+          "link": "https://discord.gg/86eVaKfv2Z"
+        },
+        {
+          "label": "Github",
+          "link": "https://github.com/agave-dao"
+        },
+        {
+          "label": "Twitter",
+          "link": "https://twitter.com/Agave_lending"
+        },
+        {
+          "label": "Telegram",
+          "link": "https://t.me/Agave1Hive"
+        },
+        {
+          "label": "Forum",
+          "link": "https://forum.1hive.org/"
+        }
+      ],
+      "documentation": [
+        {
+          "label": "FAQs",
+          "link": "https://wiki.1hive.org/guides/agave-faq"
+        }
+      ]
+    }
   }
 ]
