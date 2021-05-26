@@ -49,6 +49,50 @@
     }
   },
   {
+    "address": "fhkvlhfglhj;sld",
+    "name": "dgasdgasdg",
+    "description": "The BrightDAO intends to contribute to the support, development, engineering, and adoption of the BrightID social identity network.",
+    "token": {
+      "logo": "https://raw.githubusercontent.com/1Hive/dao-list/master/src/assets/rinkeby/0x567841A6c8281BfB45e6AEEc5791948A7dDe90E4/BrightLogo.png"
+    },
+    "wrappableToken": {
+      "logo": "https://raw.githubusercontent.com/1Hive/dao-list/master/src/assets/rinkeby/0x567841A6c8281BfB45e6AEEc5791948A7dDe90E4/BrightLogo.png"
+    },
+    "logo": "https://raw.githubusercontent.com/1Hive/dao-list/master/src/assets/rinkeby/0x567841A6c8281BfB45e6AEEc5791948A7dDe90E4/BrightLogo.png",
+    "logo_type": "https://raw.githubusercontent.com/1Hive/dao-list/master/src/assets/rinkeby/0x567841A6c8281BfB45e6AEEc5791948A7dDe90E4/BrightLogo.png",
+    "wiki": "https://brightid.gitbook.io/brightid/",
+    "links": {
+      "community": [
+        {
+          "label": "Discord",
+          "link": "https://discord.gg/qKh5VmpA"
+        },
+        {
+          "label": "Github",
+          "link": "https://github.com/BrightID"
+        },
+        {
+          "label": "Twitter",
+          "link": "https://twitter.com/BrightIDProject?s=20"
+        }
+      ],
+      "documentation": [
+        {
+          "label": "Wiki",
+          "link": "https://brightid.gitbook.io/brightid/"
+        },
+        {
+          "label": "Bug Bounty",
+          "link": "https://wiki.1hive.org/community/security/bug-bounty"
+        },
+        {
+          "label": "FAQs",
+          "link": "https://brightid.gitbook.io/brightid/frequently-asked-questions"
+        }
+      ]
+    }
+  },
+  {
     "address": "0x85017d3aeef46411dfb41f13ecd547cbc809d1f0",
     "name": "1Hive Border Cases",
     "description": "Building an experimenting with decentralized applications and protocols with an effort to build a sustainable and thriving economy around a currency called Honey which is used to influence the direction of the community",
