@@ -137,10 +137,10 @@
     "name": "BrightDAO",
     "description": "The BrightDAO intends to contribute to the support, development, engineering, and adoption of the BrightID social identity network.",
     "token": {
-      "logo": "https://raw.githubusercontent.com/1Hive/dao-list/master/src/assets/rinkeby/0x567841A6c8281BfB45e6AEEc5791948A7dDe90E4/BrightLogo.png"
+      "logo": "https://raw.githubusercontent.com/1Hive/dao-list/master/src/assets/rinkeby/0x567841A6c8281BfB45e6AEEc5791948A7dDe90E4/BrightWrapped.png"
     },
     "wrappableToken": {
-      "logo": "https://raw.githubusercontent.com/1Hive/dao-list/master/src/assets/rinkeby/0x567841A6c8281BfB45e6AEEc5791948A7dDe90E4/BrightWrapped.png"
+      "logo": "https://raw.githubusercontent.com/1Hive/dao-list/master/src/assets/rinkeby/0x567841A6c8281BfB45e6AEEc5791948A7dDe90E4/BrightLogo.png"
     },
     "logo": "https://raw.githubusercontent.com/1Hive/dao-list/master/src/assets/rinkeby/0x567841A6c8281BfB45e6AEEc5791948A7dDe90E4/BrightLogo.png",
     "logo_type": "https://raw.githubusercontent.com/1Hive/dao-list/master/src/assets/rinkeby/0x567841A6c8281BfB45e6AEEc5791948A7dDe90E4/BrightLogo.png",
@@ -177,14 +177,14 @@
     }
   },
   {
-    "address": "0x550c6e72f243f2e506585ae3a8a8cbfbed8e0ec0",
+    "address": "0x02945Cf2FbCB01119F1B26503b42416b53aF703C",
     "name": "Agave",
     "description": "Agave rewards depositors with passive income and lets them use their deposits as collateral to borrow and lend digital assets",
-    "token": {
-      "logo": "https://raw.githubusercontent.com/1Hive/dao-list/master/src/assets/rinkeby/0x550c6e72f243f2e506585ae3a8a8cbfbed8e0ec0/logo.png"
+    "wrappableToken": {
+      "logo": "https://raw.githubusercontent.com/1Hive/dao-list/master/src/assets/rinkeby/0x02945Cf2FbCB01119F1B26503b42416b53aF703C/logo.png"
     },
-    "logo": "https://raw.githubusercontent.com/1Hive/dao-list/master/src/assets/rinkeby/0x550c6e72f243f2e506585ae3a8a8cbfbed8e0ec0/logo.png",
-    "logo_type": "https://raw.githubusercontent.com/1Hive/dao-list/master/src/assets/rinkeby/0x550c6e72f243f2e506585ae3a8a8cbfbed8e0ec0/logo_type.png",
+    "logo": "https://raw.githubusercontent.com/1Hive/dao-list/master/src/assets/rinkeby/0x02945Cf2FbCB01119F1B26503b42416b53aF703C/logo.png",
+    "logo_type": "https://raw.githubusercontent.com/1Hive/dao-list/master/src/assets/rinkeby/0x02945Cf2FbCB01119F1B26503b42416b53aF703C/logo_type.png",
     "links": {
       "community": [
         {
