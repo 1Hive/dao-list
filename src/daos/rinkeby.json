@@ -177,6 +177,55 @@
     }
   },
   {
+    "address": ,
+    "name": "Giveth",
+    "description": "The Giveth DAO is revolutionizing philanthropy by encouraging, supporting and incentivizing the funding of public goods.",
+    "token": {
+      "logo": "https://raw.githubusercontent.com/Giveth/giveth-design-assets/master/02-logos/Giveth%20logo/giveth-symbol-logo-purple.png"
+    },
+    "logo": "https://raw.githubusercontent.com/Giveth/giveth-design-assets/master/02-logos/Giveth%20logo/giveth-symbol-logo-purple.png",
+    "logo_type": "https://raw.githubusercontent.com/Giveth/giveth-design-assets/master/02-logos/Giveth%20logo/giveth-symbol-logo-purple.png",
+    "Giveth Docs": "https://docs.giveth.io/",
+    "links": {
+      "community": [
+        {
+          "label": "Discord",
+          "link": "https://discord.gg/FB5vEZ5X"
+        },
+        {
+          "label": "Github",
+          "link": "https://github.com/Giveth/"
+        },
+        {
+          "label": "Twitter",
+          "link": "https://twitter.com/Givethio"
+        },
+        {
+          "label": "Telegram",
+          "link": "https://t.me/Givethio"
+        },
+        {
+          "label": "Giveth.io",
+          "link": "https://giveth.io/"
+        }
+      ],
+      "documentation": [
+        {
+          "label": "Docs",
+          "link": "https://docs.giveth.io/"
+        },
+        {
+          "label": "Medium",
+          "link": "https://medium.com/giveth"
+        },
+        {
+          "label": "FAQs",
+          "link": "https://giveth.io/faq/"
+        } 
+      ]
+    }
+  },
+  {
     "address": "0x02945Cf2FbCB01119F1B26503b42416b53aF703C",
     "name": "Agave",
     "description": "Agave rewards depositors with passive income and lets them use their deposits as collateral to borrow and lend digital assets",
