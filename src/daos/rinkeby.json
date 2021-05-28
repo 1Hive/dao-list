@@ -55,9 +55,6 @@
     "token": {
       "logo": "https://raw.githubusercontent.com/1Hive/dao-list/master/src/assets/rinkeby/0x85017d3aeef46411dfb41f13ecd547cbc809d1f0/nativeToken.png"
     },
-    "wrappableToken": {
-      "logo": "https://raw.githubusercontent.com/1Hive/dao-list/master/src/assets/rinkeby/0x85017d3aeef46411dfb41f13ecd547cbc809d1f0/wrappedToken.png"
-    },
     "logo": "https://raw.githubusercontent.com/1Hive/dao-list/master/src/assets/rinkeby/0x85017d3aeef46411dfb41f13ecd547cbc809d1f0/logo.png",
     "logo_type": "https://raw.githubusercontent.com/1Hive/dao-list/master/src/assets/rinkeby/0x85017d3aeef46411dfb41f13ecd547cbc809d1f0/logo_type.png",
     "wiki": "https://1hive.gitbook.io/1hive/",
@@ -137,9 +134,6 @@
     "name": "BrightDAO",
     "description": "The BrightDAO intends to contribute to the support, development, engineering, and adoption of the BrightID social identity network.",
     "token": {
-      "logo": "https://raw.githubusercontent.com/1Hive/dao-list/master/src/assets/rinkeby/0x52605d44Ae93Afc4e876cb1FE24aEf91336884Df/BrightLogo.png"
-    },
-    "wrappableToken": {
       "logo": "https://raw.githubusercontent.com/1Hive/dao-list/master/src/assets/rinkeby/0x52605d44Ae93Afc4e876cb1FE24aEf91336884Df/BrightLogo.png"
     },
     "logo": "https://raw.githubusercontent.com/1Hive/dao-list/master/src/assets/rinkeby/0x52605d44Ae93Afc4e876cb1FE24aEf91336884Df/BrightLogo.png",
@@ -232,9 +226,6 @@
     "token": {
       "logo": "https://raw.githubusercontent.com/1Hive/dao-list/master/src/assets/rinkeby/0x02945Cf2FbCB01119F1B26503b42416b53aF703C/logo.png"
     },
-    "wrappableToken": {
-      "logo": "https://raw.githubusercontent.com/1Hive/dao-list/master/src/assets/rinkeby/0x02945Cf2FbCB01119F1B26503b42416b53aF703C/logo.png"
-    },
     "logo": "https://raw.githubusercontent.com/1Hive/dao-list/master/src/assets/rinkeby/0x02945Cf2FbCB01119F1B26503b42416b53aF703C/logo.png",
     "logo_type": "https://raw.githubusercontent.com/1Hive/dao-list/master/src/assets/rinkeby/0x02945Cf2FbCB01119F1B26503b42416b53aF703C/logo_type.png",
     "links": {
@@ -266,6 +257,33 @@
           "link": "https://wiki.1hive.org/guides/agave-faq"
         }
       ]
+    }
+  },
+  {
+    "address": "0x9B4294Bf467d97B29f7a96489536da2dd14080bf",
+    "name": "Beezu",
+    "description": "Exciting NFT battle and breeding game in the context of a DAO.",
+    "logo_type": "https://raw.githubusercontent.com/1Hive/dao-list/master/src/assets/rinkeby/0x9B4294Bf467d97B29f7a96489536da2dd14080bf/logo_type.png",
+    "links": {
+      "community": [
+        {
+          "label": "Discord",
+          "link": "https://discord.gg/x5CT2cbMYW"
+        },
+        {
+          "label": "Github",
+          "link": "https://github.com/sand3sh/ksh-react-app"
+        },
+        {
+          "label": "Twitter",
+          "link": "https://twitter.com/beezugame"
+        },
+        {
+          "label": "Forum",
+          "link": "https://forum.1hive.org/"
+        }
+      ],
+      "documentation": []
     }
   }
 ]
