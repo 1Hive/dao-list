@@ -177,14 +177,14 @@
     }
   },
   {
-    "address": ,
+    "address": "0xDA1b46663B5BA949f6213D7c3135080B32AD2295",
     "name": "Giveth",
     "description": "The Giveth DAO is revolutionizing philanthropy by encouraging, supporting and incentivizing the funding of public goods.",
     "token": {
       "logo": "https://raw.githubusercontent.com/Giveth/giveth-design-assets/master/02-logos/Giveth%20logo/giveth-symbol-logo-purple.png"
     },
     "logo": "https://raw.githubusercontent.com/Giveth/giveth-design-assets/master/02-logos/Giveth%20logo/giveth-symbol-logo-purple.png",
-    "logo_type": "https://raw.githubusercontent.com/Giveth/giveth-design-assets/master/02-logos/Giveth%20logo/giveth-symbol-logo-purple.png",
+    "logo_type": "https://raw.githubusercontent.com/Giveth/giveth-design-assets/master/02-logos/Type%20Logos/typelogo-purple.png",
     "Giveth Docs": "https://docs.giveth.io/",
     "links": {
       "community": [
