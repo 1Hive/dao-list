@@ -30,13 +30,6 @@ describe("buildList", () => {
     }
   });
 
-  it("contains native token logo", () => {
-    for (let dao of defaultTokenList.daos) {
-      expect(typeof dao.token.logo).not.equal("undefined");
-      expect(dao.token.logo.length).not.equal(0);
-    }
-  });
-
   it("contains dao name", () => {
     for (let dao of defaultTokenList.daos) {
       expect(typeof dao.name).not.equal("undefined");
@@ -44,10 +37,22 @@ describe("buildList", () => {
     }
   });
 
-  it("contains dao logo", () => {
+  it("contains logo", () => {
     for (let dao of defaultTokenList.daos) {
-      expect(typeof dao.logo).not.equal("undefined");
-      expect(dao.logo.length).not.equal(0);
+      if (dao.logo) {
+        expect(typeof dao.logo).not.equal("undefined");
+        expect(dao.logo.length).not.equal(0);
+      }
+
+      if (dao.token && dao.logo_type) {
+        expect(typeof dao.logo_type).not.equal("undefined");
+        expect(dao.logo_type.length).not.equal(0);
+      }
+
+      if (dao.token && dao.token.logo) {
+        expect(typeof dao.token.logo).not.equal("undefined");
+        expect(dao.token.logo.length).not.equal(0);
+      }
     }
   });
 
@@ -60,13 +65,14 @@ describe("buildList", () => {
 
   it("logos only should be PNG extension", () => {
     for (let dao of defaultTokenList.daos) {
-      expect(dao.logo).match(/\.(png|PNG)$/)
-      expect(dao.logo_type).match(/\.(png|PNG)$/)
+      if (dao.logo) {
+        expect(dao.logo).match(/\.(png|PNG)$/)
+      }
+      if (dao.logo_type) {
+        expect(dao.logo_type).match(/\.(png|PNG)$/)
+      }
       if (dao.token && dao.token.logo) {
         expect(dao.token.logo).match(/\.(png|PNG)$/)
-      }
-      if (dao.wrappableToken && dao.wrappableToken.logo) {
-        expect(dao.wrappableToken.logo).match(/\.(png|PNG)$/)
       }
     }
   })
