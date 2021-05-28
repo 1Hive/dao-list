@@ -41,17 +41,10 @@ describe("buildList", () => {
     for (let dao of defaultTokenList.daos) {
       if (dao.logo) {
         expect(typeof dao.logo).not.equal("undefined");
-        expect(dao.logo.length).not.equal(0);
-      }
-
-      if (dao.token && dao.logo_type) {
+        expect(dao.logo).not.equal(0);
+      } else {
         expect(typeof dao.logo_type).not.equal("undefined");
-        expect(dao.logo_type.length).not.equal(0);
-      }
-
-      if (dao.token && dao.token.logo) {
-        expect(typeof dao.token.logo).not.equal("undefined");
-        expect(dao.token.logo.length).not.equal(0);
+        expect(dao.logo_type).not.equal(0);
       }
     }
   });
@@ -73,6 +66,9 @@ describe("buildList", () => {
       }
       if (dao.token && dao.token.logo) {
         expect(dao.token.logo).match(/\.(png|PNG)$/)
+      }
+      if (dao.wrappableToken && dao.wrappableToken.logo) {
+        expect(dao.wrappableToken.logo).match(/\.(png|PNG)$/)
       }
     }
   })
