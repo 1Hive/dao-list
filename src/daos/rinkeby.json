@@ -52,8 +52,8 @@
     "address": "0x85017d3aeef46411dfb41f13ecd547cbc809d1f0",
     "name": "1Hive Border Cases",
     "description": "Building an experimenting with decentralized applications and protocols with an effort to build a sustainable and thriving economy around a currency called Honey which is used to influence the direction of the community",
-    "token": {
-      "logo": "https://raw.githubusercontent.com/1Hive/dao-list/master/src/assets/rinkeby/0x85017d3aeef46411dfb41f13ecd547cbc809d1f0/nativeToken.png"
+    "wrappableToken": {
+      "logo": "https://raw.githubusercontent.com/1Hive/dao-list/master/src/assets/rinkeby/0x85017d3aeef46411dfb41f13ecd547cbc809d1f0/wrappedToken.png"
     },
     "logo": "https://raw.githubusercontent.com/1Hive/dao-list/master/src/assets/rinkeby/0x85017d3aeef46411dfb41f13ecd547cbc809d1f0/logo.png",
     "logo_type": "https://raw.githubusercontent.com/1Hive/dao-list/master/src/assets/rinkeby/0x85017d3aeef46411dfb41f13ecd547cbc809d1f0/logo_type.png",
@@ -133,7 +133,7 @@
     "address": "0x52605d44Ae93Afc4e876cb1FE24aEf91336884Df",
     "name": "BrightDAO",
     "description": "The BrightDAO intends to contribute to the support, development, engineering, and adoption of the BrightID social identity network.",
-    "token": {
+    "wrappableToken": {
       "logo": "https://raw.githubusercontent.com/1Hive/dao-list/master/src/assets/rinkeby/0x52605d44Ae93Afc4e876cb1FE24aEf91336884Df/BrightLogo.png"
     },
     "logo": "https://raw.githubusercontent.com/1Hive/dao-list/master/src/assets/rinkeby/0x52605d44Ae93Afc4e876cb1FE24aEf91336884Df/BrightLogo.png",
@@ -223,7 +223,7 @@
     "address": "0x02945Cf2FbCB01119F1B26503b42416b53aF703C",
     "name": "Agave",
     "description": "Agave rewards depositors with passive income and lets them use their deposits as collateral to borrow and lend digital assets",
-    "token": {
+    "wrappableToken": {
       "logo": "https://raw.githubusercontent.com/1Hive/dao-list/master/src/assets/rinkeby/0x02945Cf2FbCB01119F1B26503b42416b53aF703C/logo.png"
     },
     "logo": "https://raw.githubusercontent.com/1Hive/dao-list/master/src/assets/rinkeby/0x02945Cf2FbCB01119F1B26503b42416b53aF703C/logo.png",
