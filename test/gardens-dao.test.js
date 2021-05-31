@@ -72,4 +72,12 @@ describe("buildList", () => {
       }
     }
   })
+
+  it("forum should be in valid url format", () => {
+    for (let dao of defaultTokenList.daos) {
+      if(dao.forum) {
+        expect(dao.forum).match(/https?:\/\/(www\.)?[-a-zA-Z0-9@:%._\+~#=]{1,256}\.[a-zA-Z0-9()]{1,6}\b([-a-zA-Z0-9()@:%_\+.~#?&//=]*)/)
+      }
+    }
+  })
 });
