@@ -1,27 +1,17 @@
-# @honeyswap-default-token-list
+# @1hive/gardens-dao-list
 
-[![Tests](https://github.com/Uniswap/token-lists/workflows/Tests/badge.svg)](https://github.com/1Hive/default-token-list/actions?query=workflow%3ATests)
-[![npm](https://img.shields.io/npm/v/honeyswap-default-token-list)](https://unpkg.com/honeyswap-default-token-list@latest/)
+[![Tests](https://github.com/1Hive/dao-list/workflows/Tests/badge.svg)](https://github.com/1Hive/dao-list/actions?query=workflow%3ATests)
+[![npm](https://img.shields.io/npm/v/@1hive/gardens-dao-list)](https://unpkg.com/browse/@1hive/gardens-dao-list@latest)
 
-This NPM module and GitHub repo contains the default token list used in the Honeyswap interface.
-
-## Adding a token
-
-To request that we add a token to the list,
-[file an issue](https://github.com/1Hive/default-token-list/issues/new?assignees=&labels=token+request&template=token-request.md&title=Add+%7BTOKEN_SYMBOL%7D%3A+%7BTOKEN_NAME%7D).
-
-### Disclaimer
-
-Note filing an issue does not guarantee addition to this default token list.
-We do not review token addition requests in any particular order, and we do not
-guarantee that we will review your request to add the token to the default list. 
-
+This NPM module and GitHub repo contains the DAO list used in the Gardens interface.
 
 ### Deploy new version
-Use feat() & patch() in your commit to dump the version
-example: 
+Use `feat()` or `patch()` in your commit to bump the version:
+
+Example:
+
 ```
 feat(add): xDAI
 ```
-Once the PR is merge -> Go to the actions tab in the repository, and trigger the deploy action.
 
+Once the PR is merged, go to the actions tab in the repository and trigger the deploy action.
