@@ -56,6 +56,9 @@
     "wrappableToken": {
       "logo": "https://raw.githubusercontent.com/1Hive/dao-list/master/src/assets/rinkeby/0x52605d44Ae93Afc4e876cb1FE24aEf91336884Df/BrightLogo.png"
     },
+    "token": {
+      "logo": "https://raw.githubusercontent.com/1Hive/dao-list/master/src/assets/rinkeby/0x52605d44Ae93Afc4e876cb1FE24aEf91336884Df/BrightWrappedLogo.png"
+    },
     "logo": "https://raw.githubusercontent.com/1Hive/dao-list/master/src/assets/rinkeby/0x52605d44Ae93Afc4e876cb1FE24aEf91336884Df/BrightLogo.png",
     "logo_type": "https://raw.githubusercontent.com/1Hive/dao-list/master/src/assets/rinkeby/0x52605d44Ae93Afc4e876cb1FE24aEf91336884Df/BrightLogo.png",
     "wiki": "https://brightid.gitbook.io/brightid/",
@@ -63,7 +66,7 @@
       "community": [
         {
           "label": "Discord",
-          "link": "https://discord.gg/qKh5VmpA"
+          "link": "https://discord.gg/Wx63jaYa2Z"
         },
         {
           "label": "Github",
@@ -78,10 +81,6 @@
         {
           "label": "Wiki",
           "link": "https://brightid.gitbook.io/brightid/"
-        },
-        {
-          "label": "Bug Bounty",
-          "link": "https://wiki.1hive.org/community/security/bug-bounty"
         },
         {
           "label": "FAQs",
