@@ -7,23 +7,19 @@ const buildList = require("../src/buildList");
 // const validator = ajv.compile(schema);
 
 describe("buildList", () => {
-  const defaultTokenList = buildList();
-
-  // it("validates", () => {
-  //   expect(validator(defaultTokenList)).to.equal(true);
-  // });
+  const defaultDaoList = buildList();
 
   it("contains no duplicate addresses", () => {
     const map = {};
-    for (let dao of defaultTokenList.daos) {
-      const key = `${dao.address}`;
-      expect(typeof map[key]).to.equal("undefined");
-      map[key] = true;
-    }
+      for (let dao of defaultDaoList.daos) {
+        const key = `${dao.chainId}-${dao.address}`;
+        expect(typeof map[key]).to.equal("undefined");
+        map[key] = true;
+      }
   });
 
   it("all addresses are valid and checksummed", () => {
-    for (let dao of defaultTokenList.daos) {
+    for (let dao of defaultDaoList.daos) {
       expect(getAddress(dao.address).toLowerCase()).to.eq(
         dao.address.toLowerCase()
       );
@@ -31,14 +27,14 @@ describe("buildList", () => {
   });
 
   it("contains dao name", () => {
-    for (let dao of defaultTokenList.daos) {
+    for (let dao of defaultDaoList.daos) {
       expect(typeof dao.name).not.equal("undefined");
       expect(dao.name.length).not.equal(0);
     }
   });
 
   it("contains logo", () => {
-    for (let dao of defaultTokenList.daos) {
+    for (let dao of defaultDaoList.daos) {
       if (dao.logo) {
         expect(typeof dao.logo).not.equal("undefined");
         expect(dao.logo).not.equal(0);
@@ -52,12 +48,12 @@ describe("buildList", () => {
   it("version matches package.json", () => {
     expect(packageJson.version).to.match(/^\d+\.\d+\.\d+$/);
     expect(packageJson.version).to.equal(
-      `${defaultTokenList.version.major}.${defaultTokenList.version.minor}.${defaultTokenList.version.patch}`
+      `${defaultDaoList.version.major}.${defaultDaoList.version.minor}.${defaultDaoList.version.patch}`
     );
   });
 
   it("logos only should be PNG extension", () => {
-    for (let dao of defaultTokenList.daos) {
+    for (let dao of defaultDaoList.daos) {
       if (dao.logo) {
         expect(dao.logo).match(/\.(png|PNG)$/)
       }

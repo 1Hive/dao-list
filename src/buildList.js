@@ -1,5 +1,7 @@
 const { version } = require("../package.json");
 const rinkeby = require("./daos/rinkeby.json");
+const xdai = require("./daos/xdai.json");
+//const polygon = require("./daos/polygon.json");
 
 module.exports = function buildList() {
   const parsed = version.split(".");
@@ -14,6 +16,6 @@ module.exports = function buildList() {
     tags: {},
     logoURI: "ipfs://Qma4TXHsoK3yVtEGCRVeezfVGzokPGLC49Hhyvd9Lf4x2j",
     keywords: ["1Hive", "gardens"],
-    daos: [...rinkeby]
+    daos: [...xdai,...rinkeby]
   };
 };

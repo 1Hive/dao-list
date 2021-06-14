@@ -1,6 +1,7 @@
 [
   {
     "address": "0x7777cd7c9c6d3537244871ac8e73b3cb9710d45a",
+    "chainId": 4,
     "name": "1Hive",
     "description": "Building and experimenting with decentralized applications and protocols with an effort to build a sustainable and thriving economy around a currency called Honey which is used to influence the direction of the community",
     "token": {
@@ -50,6 +51,7 @@
   },
   {
     "address": "0x85017d3aeef46411dfb41f13ecd547cbc809d1f0",
+    "chainId": 4,
     "name": "1Hive Border Cases",
     "description": "Building an experimenting with decentralized applications and protocols with an effort to build a sustainable and thriving economy around a currency called Honey which is used to influence the direction of the community",
     "wrappableToken": {
@@ -131,6 +133,7 @@
   },
   {
     "address": "0x52605d44Ae93Afc4e876cb1FE24aEf91336884Df",
+    "chainId": 4,
     "name": "BrightDAO",
     "description": "The BrightDAO intends to contribute to the support, development, engineering, and adoption of the BrightID social identity network.",
     "wrappableToken": {
@@ -172,6 +175,7 @@
   },
   {
     "address": "0xDA1b46663B5BA949f6213D7c3135080B32AD2295",
+    "chainId": 4,
     "name": "Giveth",
     "description": "The Giveth DAO is revolutionizing philanthropy by encouraging, supporting and incentivizing the funding of public goods.",
     "token": {
@@ -221,6 +225,7 @@
   },
   {
     "address": "0x02945Cf2FbCB01119F1B26503b42416b53aF703C",
+    "chainId": 4,
     "name": "Agave",
     "description": "Agave rewards depositors with passive income and lets them use their deposits as collateral to borrow and lend digital assets",
     "wrappableToken": {
@@ -261,6 +266,7 @@
   },
   {
     "address": "0x9B4294Bf467d97B29f7a96489536da2dd14080bf",
+    "chainId": 4,
     "name": "Beezu",
     "description": "Exciting NFT battle and breeding game in the context of a DAO.",
     "logo_type": "https://raw.githubusercontent.com/1Hive/dao-list/master/src/assets/rinkeby/0x9B4294Bf467d97B29f7a96489536da2dd14080bf/logo_type.png",
