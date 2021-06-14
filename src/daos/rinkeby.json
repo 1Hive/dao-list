@@ -10,6 +10,7 @@
     "logo": "https://raw.githubusercontent.com/1Hive/dao-list/master/src/assets/rinkeby/0x7777cd7c9c6d3537244871ac8e73b3cb9710d45a/logo.png",
     "logo_type": "https://raw.githubusercontent.com/1Hive/dao-list/master/src/assets/rinkeby/0x7777cd7c9c6d3537244871ac8e73b3cb9710d45a/logo_type.png",
     "wiki": "https://1hive.gitbook.io/1hive/",
+    "forum":"https://forum.1hive.org/",
     "links": {
       "community": [
         {
@@ -40,88 +41,6 @@
         },
         {
           "label": "Bug Bounty",
-          "link": "https://wiki.1hive.org/community/security/bug-bounty"
-        },
-        {
-          "label": "FAQs",
-          "link": "https://wiki.1hive.org/guides/faq"
-        }
-      ]
-    }
-  },
-  {
-    "address": "0x85017d3aeef46411dfb41f13ecd547cbc809d1f0",
-    "chainId": 4,
-    "name": "1Hive Border Cases",
-    "description": "Building an experimenting with decentralized applications and protocols with an effort to build a sustainable and thriving economy around a currency called Honey which is used to influence the direction of the community",
-    "wrappableToken": {
-      "logo": "https://raw.githubusercontent.com/1Hive/dao-list/master/src/assets/rinkeby/0x85017d3aeef46411dfb41f13ecd547cbc809d1f0/wrappedToken.png"
-    },
-    "logo": "https://raw.githubusercontent.com/1Hive/dao-list/master/src/assets/rinkeby/0x85017d3aeef46411dfb41f13ecd547cbc809d1f0/logo.png",
-    "logo_type": "https://raw.githubusercontent.com/1Hive/dao-list/master/src/assets/rinkeby/0x85017d3aeef46411dfb41f13ecd547cbc809d1f0/logo_type.png",
-    "wiki": "https://1hive.gitbook.io/1hive/",
-    "links": {
-      "community": [
-        {
-          "label": "Discord",
-          "link": "https://discord.gg/4fm7pgB"
-        },
-        {
-          "label": "Github",
-          "link": "https://github.com/1Hive"
-        },
-        {
-          "label": "Twitter",
-          "link": "https://twitter.com/1HiveOrg"
-        },
-        {
-          "label": "Telegram",
-          "link": "https://t.me/honeyswapdex"
-        },
-        {
-          "label": "Forum",
-          "link": "https://forum.1hive.org/"
-        },
-        {
-          "label": "Discord",
-          "link": "https://discord.gg/4fm7pgB"
-        },
-        {
-          "label": "Github",
-          "link": "https://github.com/1Hive"
-        },
-        {
-          "label": "Twitter",
-          "link": "https://twitter.com/1HiveOrg"
-        },
-        {
-          "label": "Telegram",
-          "link": "https://t.me/honeyswapdex"
-        },
-        {
-          "label": "Forum",
-          "link": "https://forum.1hive.org/"
-        }
-      ],
-      "documentation": [
-        {
-          "label": "Wiki",
-          "link": "https://wiki.1hive.org/"
-        },
-        {
-          "label": "Bug Bounty",
-          "link": "https://wiki.1hive.org/community/security/bug-bounty"
-        },
-        {
-          "label": "FAQs",
-          "link": "https://wiki.1hive.org/guides/faq"
-        },
-        {
-          "label": "Wiki",
-          "link": "https://wiki.1hive.org/"
-        },
-        {
-          "label": "BugBounty",
           "link": "https://wiki.1hive.org/community/security/bug-bounty"
         },
         {
@@ -139,6 +58,9 @@
     "wrappableToken": {
       "logo": "https://raw.githubusercontent.com/1Hive/dao-list/master/src/assets/rinkeby/0x52605d44Ae93Afc4e876cb1FE24aEf91336884Df/BrightLogo.png"
     },
+    "token": {
+      "logo": "https://raw.githubusercontent.com/1Hive/dao-list/master/src/assets/rinkeby/0x52605d44Ae93Afc4e876cb1FE24aEf91336884Df/BrightWrappedLogo.png"
+    },
     "logo": "https://raw.githubusercontent.com/1Hive/dao-list/master/src/assets/rinkeby/0x52605d44Ae93Afc4e876cb1FE24aEf91336884Df/BrightLogo.png",
     "logo_type": "https://raw.githubusercontent.com/1Hive/dao-list/master/src/assets/rinkeby/0x52605d44Ae93Afc4e876cb1FE24aEf91336884Df/BrightLogo.png",
     "wiki": "https://brightid.gitbook.io/brightid/",
@@ -146,7 +68,7 @@
       "community": [
         {
           "label": "Discord",
-          "link": "https://discord.gg/qKh5VmpA"
+          "link": "https://discord.gg/Wx63jaYa2Z"
         },
         {
           "label": "Github",
@@ -161,10 +83,6 @@
         {
           "label": "Wiki",
           "link": "https://brightid.gitbook.io/brightid/"
-        },
-        {
-          "label": "Bug Bounty",
-          "link": "https://wiki.1hive.org/community/security/bug-bounty"
         },
         {
           "label": "FAQs",
@@ -233,6 +151,7 @@
     },
     "logo": "https://raw.githubusercontent.com/1Hive/dao-list/master/src/assets/rinkeby/0x02945Cf2FbCB01119F1B26503b42416b53aF703C/logo.png",
     "logo_type": "https://raw.githubusercontent.com/1Hive/dao-list/master/src/assets/rinkeby/0x02945Cf2FbCB01119F1B26503b42416b53aF703C/logo_type.png",
+    "forum":"https://forum.1hive.org/",
     "links": {
       "community": [
         {
@@ -270,6 +189,7 @@
     "name": "Beezu",
     "description": "Exciting NFT battle and breeding game in the context of a DAO.",
     "logo_type": "https://raw.githubusercontent.com/1Hive/dao-list/master/src/assets/rinkeby/0x9B4294Bf467d97B29f7a96489536da2dd14080bf/logo_type.png",
+    "forum":"https://forum.1hive.org/",
     "links": {
       "community": [
         {
