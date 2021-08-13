@@ -287,5 +287,38 @@
         }
       ]
     }
+  },
+  {
+    "address": "0xe6313a030b7f8089f9af11c9f823175b524c7d6d",
+    "name": "TECommons",
+    "description": "Enable the creation of ethical, safe, resilient and diverse economic systems to benefit societies around the world.",
+    "token": {
+      "logo": "https://raw.githubusercontent.com/1Hive/dao-list/master/src/assets/rinkeby/0xe6313a030b7f8089f9af11c9f823175b524c7d6d/logo.png"
+    },
+    "logo": "https://raw.githubusercontent.com/1Hive/dao-list/master/src/assets/rinkeby/0xe6313a030b7f8089f9af11c9f823175b524c7d6d/logo.png",
+    "logo_type": "https://raw.githubusercontent.com/1Hive/dao-list/master/src/assets/rinkeby/0xe6313a030b7f8089f9af11c9f823175b524c7d6d/logo_type.png",
+    "wiki": "https://tecommons.medium.com/",
+    "forum":"https://forum.tecommons.org/",
+    "links": {
+      "community": [
+        {
+          "label": "Discord",
+          "link": "https://discord.com/invite/tjhx4rw2WK"
+        },
+        {
+          "label": "Github",
+          "link": "https://github.com/CommonsBuild"
+        },
+        {
+          "label": "Twitter",
+          "link": "https://twitter.com/tecmns"
+        },
+        {
+          "label": "Forum",
+          "link": "https://forum.tecommons.org/"
+        }
+      ],
+      "documentation": []
+    }
   }
 ]
