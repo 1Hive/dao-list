@@ -37,17 +37,6 @@ describe("buildList", () => {
     }
   });
 
-  it("contains logo", () => {
-    for (let dao of defaultTokenList.daos) {
-      if (dao.logo) {
-        expect(typeof dao.logo).not.equal("undefined");
-        expect(dao.logo).not.equal(0);
-      } else {
-        expect(typeof dao.logo_type).not.equal("undefined");
-        expect(dao.logo_type).not.equal(0);
-      }
-    }
-  });
 
   it("version matches package.json", () => {
     expect(packageJson.version).to.match(/^\d+\.\d+\.\d+$/);
