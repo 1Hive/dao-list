@@ -50,18 +50,19 @@
     }
   },
   {
-    "address": "0x52605d44Ae93Afc4e876cb1FE24aEf91336884Df",
+    "address": "0xbb7cc1fd15eE7071f93658d5c46fEE41433A5a0B",
     "name": "BrightDAO",
     "description": "The BrightDAO intends to contribute to the support, development, engineering, and adoption of the BrightID social identity network.",
     "wrappableToken": {
-      "logo": "https://raw.githubusercontent.com/1Hive/dao-list/master/src/assets/rinkeby/0x52605d44Ae93Afc4e876cb1FE24aEf91336884Df/BrightLogo.png"
+      "logo": "https://raw.githubusercontent.com/1Hive/dao-list/master/src/assets/rinkeby/0xbb7cc1fd15eE7071f93658d5c46fEE41433A5a0B/BrightTokenIcon.png"
     },
     "token": {
-      "logo": "https://raw.githubusercontent.com/1Hive/dao-list/master/src/assets/rinkeby/0x52605d44Ae93Afc4e876cb1FE24aEf91336884Df/BrightWrappedLogo.png"
+      "logo": "https://raw.githubusercontent.com/1Hive/dao-list/master/src/assets/rinkeby/0xbb7cc1fd15eE7071f93658d5c46fEE41433A5a0B/BrightWrappedLogo.png"
     },
-    "logo": "https://raw.githubusercontent.com/1Hive/dao-list/master/src/assets/rinkeby/0x52605d44Ae93Afc4e876cb1FE24aEf91336884Df/BrightLogo.png",
-    "logo_type": "https://raw.githubusercontent.com/1Hive/dao-list/master/src/assets/rinkeby/0x52605d44Ae93Afc4e876cb1FE24aEf91336884Df/BrightLogo.png",
+    "logo": "https://raw.githubusercontent.com/1Hive/dao-list/master/src/assets/rinkeby/0xbb7cc1fd15eE7071f93658d5c46fEE41433A5a0B/BrightLogo.png",
+    "logo_type": "https://raw.githubusercontent.com/1Hive/dao-list/master/src/assets/rinkeby/0xbb7cc1fd15eE7071f93658d5c46fEE41433A5a0B/BrightLogo.png",
     "wiki": "https://brightid.gitbook.io/brightid/",
+    "forum": "https://forum.brightid.org/",
     "links": {
       "community": [
         {
