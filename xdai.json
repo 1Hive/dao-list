@@ -1,0 +1,94 @@
+{
+  "gardens": [
+  {
+    "address": "0x8ccbeab14b5ac4a431fffc39f4bec4089020a155",
+    "name": "1Hive",
+    "description": "Building and experimenting with decentralized applications and protocols with an effort to build a sustainable and thriving economy around a currency called Honey which is used to influence the direction of the community",
+    "token_logo": "https://raw.githubusercontent.com/1Hive/dao-list/master/assets/1Hive/nativeToken.png",
+    "logo": "https://raw.githubusercontent.com/1Hive/dao-list/master/assets/1Hive/logo.png",
+    "logo_type": "https://raw.githubusercontent.com/1Hive/dao-list/master/assets/1Hive/logo_type.png",
+    "wiki": "https://1hive.gitbook.io/1hive/",
+    "forum":"https://forum.1hive.org/",
+    "links": {
+      "community": [
+        {
+          "label": "Discord",
+          "link": "https://discord.gg/4fm7pgB"
+        },
+        {
+          "label": "Github",
+          "link": "https://github.com/1Hive"
+        },
+        {
+          "label": "Twitter",
+          "link": "https://twitter.com/1HiveOrg"
+        },
+        {
+          "label": "Telegram",
+          "link": "https://t.me/honeyswapdex"
+        },
+        {
+          "label": "Forum",
+          "link": "https://forum.1hive.org/"
+        }
+      ],
+      "documentation": [
+        {
+          "label": "Wiki",
+          "link": "https://wiki.1hive.org/"
+        },
+        {
+          "label": "Bug Bounty",
+          "link": "https://wiki.1hive.org/community/security/bug-bounty"
+        },
+        {
+          "label": "FAQs",
+          "link": "https://wiki.1hive.org/guides/faq"
+        }
+      ]
+    }
+  },
+  {
+    "address": "0x7d0f7c427a33ad8812e223a000c71450c18a3527",
+    "chainId": 4,
+    "name": "Agave",
+    "description": "Agave rewards depositors with passive income and lets them use their deposits as collateral to borrow and lend digital assets",
+    "wrappableToken": {
+      "logo": "https://raw.githubusercontent.com/1Hive/dao-list/master/assets/Agave/logo.png"
+    },
+    "logo": "https://raw.githubusercontent.com/1Hive/dao-list/master/assets/Agave/logo.png",
+    "logo_type": "https://raw.githubusercontent.com/1Hive/dao-list/master/assets/Agave/logo_type.png",
+    "forum":"https://forum.1hive.org/",
+    "links": {
+      "community": [
+        {
+          "label": "Discord",
+          "link": "https://discord.gg/86eVaKfv2Z"
+        },
+        {
+          "label": "Github",
+          "link": "https://github.com/agave-dao"
+        },
+        {
+          "label": "Twitter",
+          "link": "https://twitter.com/Agave_lending"
+        },
+        {
+          "label": "Telegram",
+          "link": "https://t.me/Agave1Hive"
+        },
+        {
+          "label": "Forum",
+          "link": "https://forum.1hive.org/"
+        }
+      ],
+      "documentation": [
+        {
+          "label": "FAQs",
+          "link": "https://wiki.1hive.org/guides/agave-faq"
+        }
+      ]
+    }
+  }
+]
+}
