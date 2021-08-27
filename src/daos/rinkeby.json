@@ -264,6 +264,10 @@
     "address": "0x71Cd55481f7B9B4B750bB48fb9D66fCf147Dc72B",
     "name": "GG DAO",
     "description": "GUStakes is a community that provide stake on mathces of Gods Unchained",
+    "wrappableToken": {
+      "logo": "https://raw.githubusercontent.com/1Hive/dao-list/master/src/assets/rinkeby/0x71Cd55481f7B9B4B750bB48fb9D66fCf147Dc72B/logo.png"
+    },
+    "logo": "https://raw.githubusercontent.com/1Hive/dao-list/master/src/assets/rinkeby/0x71Cd55481f7B9B4B750bB48fb9D66fCf147Dc72B/logo.png",
     "logo_type": "https://raw.githubusercontent.com/1Hive/dao-list/master/src/assets/rinkeby/0x71Cd55481f7B9B4B750bB48fb9D66fCf147Dc72B/logo_type.png",
     "forum": "https://forum.1hive.org/",
     "links": {
