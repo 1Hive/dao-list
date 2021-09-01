@@ -50,7 +50,7 @@
       }
     },
     {
-      "address": "0x52605d44Ae93Afc4e876cb1FE24aEf91336884Df",
+      "address": "0xbb7cc1fd15eE7071f93658d5c46fEE41433A5a0B",
       "chainId": 4,
       "name": "BrightDAO",
       "description": "The BrightDAO intends to contribute to the support, development, engineering, and adoption of the BrightID social identity network.",
@@ -259,6 +259,10 @@
         "address": "0x71Cd55481f7B9B4B750bB48fb9D66fCf147Dc72B",
         "name": "GG DAO",
         "description": "GUStakes is a community that provide stake on mathces of Gods Unchained",
+        "wrappableToken": {
+          "logo": "https://raw.githubusercontent.com/1Hive/dao-list/master/assets/GGDAO/logo.png"
+        },
+        "logo": "https://raw.githubusercontent.com/1Hive/dao-list/master/assets/GGDAO/logo.png",
         "logo_type": "https://raw.githubusercontent.com/1Hive/dao-list/master/assets/GGDAO/logo_type.png",
         "forum": "https://forum.1hive.org/",
         "links": {
