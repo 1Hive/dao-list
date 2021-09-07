@@ -53,11 +53,11 @@
       "name": "BrightDAO",
       "description": "The BrightDAO intends to contribute to the support, development, engineering, and adoption of the BrightID social identity network.",
       "wrappableToken": {
-        "logo": "https://raw.githubusercontent.com/1Hive/dao-list/master/assets/BrightDAO/BrightWrappedLogo.png"
+        "logo": "https://raw.githubusercontent.com/1Hive/dao-list/master/assets/BrightDAO/wrappable_token_logo.png"
       },
-      "token_logo": "https://raw.githubusercontent.com/1Hive/dao-list/master/assets/BrightDAO/BrightTokenIcon.png",
-      "logo": "https://raw.githubusercontent.com/1Hive/dao-list/master/assets/BrightDAO/BrightLogo.png",
-      "logo_type": "https://raw.githubusercontent.com/1Hive/dao-list/master/assets/BrightDAO/BrightLogo.png",
+      "token_logo": "https://raw.githubusercontent.com/1Hive/dao-list/master/assets/BrightDAO/token_icon.png",
+      "logo": "https://raw.githubusercontent.com/1Hive/dao-list/master/assets/BrightDAO/logo.png",
+      "logo_type": "https://raw.githubusercontent.com/1Hive/dao-list/master/assets/BrightDAO/logo.png",
       "wiki": "https://brightid.gitbook.io/brightid/",
       "links": {
         "community": [
