@@ -49,7 +49,7 @@
       }
     },
     {
-      "address": "0x7d0f7c427a33ad8812e223a000c71450c18a3527",
+      "address": "0x2ec8db0b2f2ed44b75c481b864f9dd1c611699c0",
       "name": "Agave",
       "description": "Agave rewards depositors with passive income and lets them use their deposits as collateral to borrow and lend digital assets",
       "wrappableToken": {
@@ -100,6 +100,7 @@
       "logo": "https://raw.githubusercontent.com/1Hive/dao-list/master/assets/BrightDAO/logo.png",
       "logo_type": "https://raw.githubusercontent.com/1Hive/dao-list/master/assets/BrightDAO/logo.png",
       "wiki": "https://brightid.gitbook.io/brightid/",
+      "forum": "https://forum.brightid.org/",
       "links": {
         "community": [
           {
