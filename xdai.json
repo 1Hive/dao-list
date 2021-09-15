@@ -90,6 +90,47 @@
       }
     },
     {
+      "address": "0xdbcadE285846131a5e7384685EADDBDFD9625557",
+      "name": "Cold Truth Culture",
+      "description": "A commiunity that empowers NFT artists",
+      "wrappableToken": {
+        "logo": "https://raw.githubusercontent.com/1Hive/dao-list/master/assets/CTC/logo.png"
+      },
+      "logo": "https://raw.githubusercontent.com/1Hive/dao-list/master/assets/CTC/logo.png",
+      "logo_type": "https://raw.githubusercontent.com/1Hive/dao-list/master/assets/CTC/logo.png",
+      "forum": "https://forum.1hive.org/",
+      "links": {
+        "community": [
+          {
+            "label": "Discord",
+            "link": "https://discord.com/invite/6sdT77HP9u"
+          },
+          {
+            "label": "Github",
+            "link": "https://github.com/ColdTruthCulture"
+          },
+          {
+            "label": "Twitter",
+            "link": "https://twitter.com/ColdTruthCult"
+          },
+          {
+            "label": "Telegram",
+            "link": "https://t.me/ColdTruthCultureNFTs"
+          },
+          {
+            "label": "Forum",
+            "link": "https://forum.1hive.org/"
+          }
+        ],
+        "documentation": [
+          {
+            "label": "Website",
+            "link": "https://coldtruthculture.io"
+          }
+        ]
+      }
+    },
+    {
       "address": "0x1E2d5fB385E2EAE45Bd42357E426507a63597397",
       "name": "BrightDAO",
       "description": "Supporting BrightID--letting everyone prove their unique humanity. Join us!",
