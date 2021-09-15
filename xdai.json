@@ -51,7 +51,7 @@
     {
       "address": "0x2ec8db0b2f2ed44b75c481b864f9dd1c611699c0",
       "name": "Agave",
-      "description": "Agave rewards depositors with passive income and lets them use their deposits as collateral to borrow and lend digital assets",
+      "description": "Agave is a lending protocol owned by the community. Unlocking defi primitives on xDAI.",
       "wrappableToken": {
         "logo": "https://raw.githubusercontent.com/1Hive/dao-list/master/assets/Agave/logo.png"
       },
