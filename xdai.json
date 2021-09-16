@@ -92,7 +92,7 @@
     {
       "address": "0x1baa8fd650c870fcfc773dd26e92b27b5b80d415",
       "name": "Cold Truth Culture",
-      "description": "A community that empowers NFT artists",
+      "description": "A community that empowers NFT artists.",
       "wrappableToken": {
         "logo": "https://raw.githubusercontent.com/1Hive/dao-list/master/assets/CTC/logo.png"
       },
