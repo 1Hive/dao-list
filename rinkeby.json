@@ -382,6 +382,23 @@
             "logo": null,
             "logo_type": "https://raw.githubusercontent.com/1Hive/dao-list/master/assets/Garden DAO test 23647/logo_type.png",
             "token_logo": null
+        },
+        {
+            "address": "0xEF1fbe414d27d7e99754B290Ac36d99d7b781143",
+            "name": "Garden DAO test 8946",
+            "description": "test description",
+            "forum": "https://forum.1hive.org",
+            "links": {
+                "documentation": [
+                    {}
+                ],
+                "community": [
+                    {}
+                ]
+            },
+            "logo": null,
+            "logo_type": "https://raw.githubusercontent.com/1Hive/dao-list/master/assets/Garden DAO test 8946/logo_type.png",
+            "token_logo": null
         }
     ]
 }
