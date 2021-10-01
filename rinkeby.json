@@ -331,6 +331,23 @@
             "logo": "https://raw.githubusercontent.com/1Hive/dao-list/master/assets/Garden DAO test 65195/logo.png",
             "logo_type": "https://raw.githubusercontent.com/1Hive/dao-list/master/assets/Garden DAO test 65195/logo_type.png",
             "token_logo": "https://raw.githubusercontent.com/1Hive/dao-list/master/assets/Garden DAO test 65195/token_logo.png"
+        },
+        {
+            "address": "0xfaA163486C562A677567E082ef875C5360415C66",
+            "name": "Garden DAO test 91343",
+            "description": "test description",
+            "forum": "https://forum.1hive.org",
+            "links": {
+                "documentation": [
+                    {}
+                ],
+                "community": [
+                    {}
+                ]
+            },
+            "logo": "https://raw.githubusercontent.com/1Hive/dao-list/master/assets/Garden DAO test 91343/logo.png",
+            "logo_type": "https://raw.githubusercontent.com/1Hive/dao-list/master/assets/Garden DAO test 91343/logo_type.png",
+            "token_logo": "https://raw.githubusercontent.com/1Hive/dao-list/master/assets/Garden DAO test 91343/token_logo.png"
         }
     ]
 }
