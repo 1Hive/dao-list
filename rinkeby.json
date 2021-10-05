@@ -561,6 +561,26 @@
             "logo": null,
             "logo_type": "https://raw.githubusercontent.com/1Hive/dao-list/master/assets/Garden DAO test 70042/logo_type.png",
             "token_logo": null
+        },
+        {
+            "address": "0x70A94c9B8073bdE451B4fCA0B888e1adE75D373D",
+            "name": "Garden DAO test 78718",
+            "description": "test description",
+            "forum": "https://forum.1hive.org",
+            "links": {
+                "documentation": [
+                    {}
+                ],
+                "community": [
+                    {
+                        "link": "https://basicattentiontoken.org/",
+                        "label": "BAT"
+                    }
+                ]
+            },
+            "logo": null,
+            "logo_type": "https://raw.githubusercontent.com/1Hive/dao-list/master/assets/Garden DAO test 78718/logo_type.png",
+            "token_logo": null
         }
     ]
 }
