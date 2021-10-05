@@ -507,6 +507,23 @@
             "logo": null,
             "logo_type": null,
             "token_logo": null
+        },
+        {
+            "address": "0xb9825eD02fAb1d7a07BE9A5223Bd1534AD767715",
+            "name": "Garden DAO test 26973",
+            "description": "test description",
+            "forum": "https://forum.1hive.org",
+            "links": {
+                "documentation": [
+                    {}
+                ],
+                "community": [
+                    {}
+                ]
+            },
+            "logo": null,
+            "logo_type": null,
+            "token_logo": null
         }
     ]
 }
