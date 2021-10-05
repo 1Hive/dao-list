@@ -598,6 +598,26 @@
             "logo": null,
             "logo_type": null,
             "token_logo": null
+        },
+        {
+            "address": "0xB455FaB2C2b12E5A71dc8912992F4b28a0b50a35",
+            "name": "Garden DAO test 36798",
+            "description": "test description",
+            "forum": "https://forum.1hive.org",
+            "links": {
+                "documentation": [
+                    {}
+                ],
+                "community": [
+                    {
+                        "link": "https://basicattentiontoken.org/",
+                        "label": "Website"
+                    }
+                ]
+            },
+            "logo": null,
+            "logo_type": "https://raw.githubusercontent.com/1Hive/dao-list/master/assets/Garden DAO test 36798/logo_type.png",
+            "token_logo": null
         }
     ]
 }
