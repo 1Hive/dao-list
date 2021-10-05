@@ -618,6 +618,26 @@
             "logo": null,
             "logo_type": "https://raw.githubusercontent.com/1Hive/dao-list/master/assets/Garden DAO test 36798/logo_type.png",
             "token_logo": null
+        },
+        {
+            "address": "0x6d81F91cE0Ca738BF48Fde79524596995Dd488c6",
+            "name": "Garden DAO test 83726",
+            "description": "test description",
+            "forum": "https://forum.1hive.org",
+            "links": {
+                "documentation": [
+                    {}
+                ],
+                "community": [
+                    {
+                        "link": "https://basicattentiontoken.org/",
+                        "label": "Wesbite"
+                    }
+                ]
+            },
+            "logo": "https://raw.githubusercontent.com/1Hive/dao-list/master/assets/Garden DAO test 83726/logo.png",
+            "logo_type": "https://raw.githubusercontent.com/1Hive/dao-list/master/assets/Garden DAO test 83726/logo_type.png",
+            "token_logo": "https://raw.githubusercontent.com/1Hive/dao-list/master/assets/Garden DAO test 83726/token_logo.png"
         }
     ]
 }
