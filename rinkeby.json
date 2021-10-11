@@ -723,6 +723,23 @@
             "logo": null,
             "logo_type": "https://raw.githubusercontent.com/1Hive/dao-list/master/assets/Garden testing/logo_type.png",
             "token_logo": "https://raw.githubusercontent.com/1Hive/dao-list/master/assets/Garden testing/token_logo.png"
+        },
+        {
+            "address": "0x81078Fe2F366e4e74d3342f7F5b5a83591591DaE",
+            "name": "iuh",
+            "description": "iuh",
+            "forum": "https://forum.1hive.org",
+            "links": {
+                "documentation": [
+                    {}
+                ],
+                "community": [
+                    {}
+                ]
+            },
+            "logo": null,
+            "logo_type": null,
+            "token_logo": null
         }
     ]
 }
