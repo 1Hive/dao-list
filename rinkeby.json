@@ -757,6 +757,23 @@
             "logo": null,
             "logo_type": null,
             "token_logo": null
+        },
+        {
+            "address": "0xC63D4cE37c88713E50D35591F2AC579BC5118855",
+            "name": "marktest6Boboli",
+            "description": "testing boboli",
+            "forum": "https://forum.1hive.org",
+            "links": {
+                "documentation": [
+                    {}
+                ],
+                "community": [
+                    {}
+                ]
+            },
+            "logo": null,
+            "logo_type": null,
+            "token_logo": null
         }
     ]
 }
