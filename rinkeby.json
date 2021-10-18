@@ -774,26 +774,6 @@
             "logo": null,
             "logo_type": null,
             "token_logo": null
-        },
-        {
-            "address": "0x1579b28aaB8c365bB8E73028372817b4b1c1600f",
-            "name": "Paul2 Sucks",
-            "description": "A DAO dedicated to letting the world know that Paul2 is the worst person ever.",
-            "forum": "https://forum.1hive.org",
-            "links": {
-                "documentation": [
-                    {}
-                ],
-                "community": [
-                    {
-                        "link": "http://www.paul2.com",
-                        "label": "PAUL@"
-                    }
-                ]
-            },
-            "logo": "https://raw.githubusercontent.com/1Hive/dao-list/master/assets/Paul2 Sucks/logo.jpeg",
-            "logo_type": "https://raw.githubusercontent.com/1Hive/dao-list/master/assets/Paul2 Sucks/logo_type.jpeg",
-            "token_logo": "https://raw.githubusercontent.com/1Hive/dao-list/master/assets/Paul2 Sucks/token_logo.jpeg"
         }
     ]
 }
