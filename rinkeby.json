@@ -791,6 +791,23 @@
             "logo": null,
             "logo_type": null,
             "token_logo": null
+        },
+        {
+            "address": "0xCb0b2D3800C0274d65A306E037bF754399Ae7A15",
+            "name": "PreexistingTest",
+            "description": "sdfsfdsfsd",
+            "forum": "https://forum.1hive.org",
+            "links": {
+                "community": [
+                    {}
+                ],
+                "documentation": [
+                    {}
+                ]
+            },
+            "logo": null,
+            "logo_type": null,
+            "token_logo": null
         }
     ]
 }
