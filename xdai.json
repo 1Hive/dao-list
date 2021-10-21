@@ -168,6 +168,41 @@
           }
         ]
       }
+    },
+    {
+      "address": "0x919c45abdd2025d115b09392dc151b77586aa3f1",
+      "name": "TESTGIVgarden",
+      "description": "Decentrallized governance platform for the GIVeconomy",
+      "wrappableToken": {
+        "logo": "https://raw.githubusercontent.com/1Hive/dao-list/master/assets/Giveth/token_logo.png"
+      },
+      "token_logo": "https://raw.githubusercontent.com/1Hive/dao-list/master/assets/Giveth/token_logo.png",
+      "logo": "https://raw.githubusercontent.com/1Hive/dao-list/master/assets/Giveth/logo.png",
+      "logo_type": "https://raw.githubusercontent.com/1Hive/dao-list/master/assets/Giveth/logo_type.png",
+      "wiki": "https://docs.giveth.io",
+      "forum": "https://forum.giveth.io",
+      "links": {
+        "community": [
+          {
+            "label": "Landing",
+            "link": "https://giveth.io"
+          },
+          {
+            "label": "Twitter",
+            "link": "https://twitter.com/givethio"
+          },
+          {
+            "label": "Medium",
+            "link": "https://medium.com/giveth"
+          }
+        ],
+        "documentation": [
+          {
+            "label": "Wiki",
+            "link": "https://docs.giveth.io"
+          }
+        ]
+      }
     }
   ]
 }
