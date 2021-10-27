@@ -825,6 +825,23 @@
             "logo": null,
             "logo_type": null,
             "token_logo": null
+        },
+        {
+            "address": "0x56A52A3c243437E8aE3D0620EdbF28Ef7de229cd",
+            "name": "Garden request token BYOT",
+            "description": "dfdsfdsafsdfsdf",
+            "forum": "https://forum.1hive.org",
+            "links": {
+                "community": [
+                    {}
+                ],
+                "documentation": [
+                    {}
+                ]
+            },
+            "logo": null,
+            "logo_type": null,
+            "token_logo": null
         }
     ]
 }
