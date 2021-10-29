@@ -842,6 +842,23 @@
             "logo": null,
             "logo_type": null,
             "token_logo": null
+        },
+        {
+            "address": "0xd5A5394De66A2218c7982f82E193fA5ebd047a70",
+            "name": "Gnosis Safe test",
+            "description": "Garden Gnosis Safe test",
+            "forum": "https://forum.1hive.org",
+            "links": {
+                "community": [
+                    {}
+                ],
+                "documentation": [
+                    {}
+                ]
+            },
+            "logo": null,
+            "logo_type": null,
+            "token_logo": null
         }
     ]
 }
