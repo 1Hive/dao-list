@@ -859,6 +859,26 @@
             "logo": null,
             "logo_type": null,
             "token_logo": null
+        },
+        {
+            "address": "0x76ad56295e8034b132bF0c3955Efb8A0A232b286",
+            "name": "HashGarden",
+            "description": "HashGarden",
+            "forum": "https://forum.1hive.org",
+            "links": {
+                "community": [
+                    {
+                        "link": "https://thehashavatars.com",
+                        "label": "dapp"
+                    }
+                ],
+                "documentation": [
+                    {}
+                ]
+            },
+            "logo": "https://raw.githubusercontent.com/1Hive/dao-list/master/assets/HashGarden/logo.png",
+            "logo_type": null,
+            "token_logo": "https://raw.githubusercontent.com/1Hive/dao-list/master/assets/HashGarden/token_logo.png"
         }
     ]
 }
