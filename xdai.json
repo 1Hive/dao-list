@@ -173,7 +173,7 @@
       "address": "0x79c52e1a74d01cf030f3cbbbbf84b01476c9ac93",
       "name": "TESTGIVgarden",
       "description": "Decentrallized governance platform for the GIVeconomy",
-      "unipool": "0xcdB04cb27AA12B31F30789731B94712C72080FF0",
+      "unipool": "0xE77D387b4be1076891868060c32E81BC3b89C730",
       "wrappableToken": {
         "logo": "https://raw.githubusercontent.com/1Hive/dao-list/master/assets/Giveth/token_logo.png"
       },
