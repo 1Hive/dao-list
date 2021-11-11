@@ -236,6 +236,23 @@
             "logo": "https://raw.githubusercontent.com/1Hive/dao-list/master/assets/TestGIVgarden2/logo.png",
             "logo_type": "https://raw.githubusercontent.com/1Hive/dao-list/master/assets/TestGIVgarden2/logo_type.png",
             "token_logo": "https://raw.githubusercontent.com/1Hive/dao-list/master/assets/TestGIVgarden2/token_logo.png"
+        },
+        {
+            "address": "0x4AE7b62F1579b4149750a609Ef9B830bC72272F8",
+            "name": "TECTest1",
+            "description": "TEC Test description",
+            "forum": "https://forum.1hive.org",
+            "links": {
+                "community": [
+                    {}
+                ],
+                "documentation": [
+                    {}
+                ]
+            },
+            "logo": null,
+            "logo_type": null,
+            "token_logo": null
         }
     ]
 }
