@@ -936,10 +936,10 @@
                 ]
             },
             "wrappableToken": {
-                "logo": "https://raw.githubusercontent.com/1Hive/dao-list/master/assets/VitaDAO/logo.png"
+                "logo": "https://raw.githubusercontent.com/1Hive/dao-list/master/assets/VitaDAO/token_logo.png"
             },
-            "logo_type": "https://raw.githubusercontent.com/1Hive/dao-list/master/assets/VitaDAO/logo_type.png",
-            "token_logo": "https://raw.githubusercontent.com/1Hive/dao-list/master/assets/VitaDAO/token_logo.png"
+            "logo": "https://raw.githubusercontent.com/1Hive/dao-list/master/assets/VitaDAO/logo.png",
+            "logo_type": "https://raw.githubusercontent.com/1Hive/dao-list/master/assets/VitaDAO/logo_type.png"
         }
     ]
 }
