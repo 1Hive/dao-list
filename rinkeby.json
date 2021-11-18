@@ -899,6 +899,45 @@
             "logo": "https://raw.githubusercontent.com/1Hive/dao-list/master/assets/HashAvatars Garden/logo.png",
             "logo_type": null,
             "token_logo": "https://raw.githubusercontent.com/1Hive/dao-list/master/assets/HashAvatars Garden/token_logo.png"
+        },
+        {
+            "address": "0xe0F3b10666ADF985D4eC5C2bD88aB6A4e60F6625",
+            "name": "VitaDAO",
+            "description": "A decentralized collective funding early stage longevity research",
+            "forum": "https://gov.vitadao.com/c/ideas",
+            "links": {
+                "community": [
+                    {
+                        "link": "https://www.vitadao.com",
+                        "label": "Website"
+                    },
+                    {
+                        "link": "https://discord.com/invite/3S3ftnmZYD",
+                        "label": "Discord"
+                    },
+                    {
+                        "link": "https://gov.vitadao.com",
+                        "label": "Forum"
+                    },
+                    {
+                        "link": "https://www.vitadao.com/working-groups",
+                        "label": "Working Groups"
+                    }
+                ],
+                "documentation": [
+                    {
+                        "link": "https://www.vitadao.com/how-it-works",
+                        "label": "How it work"
+                    },
+                    {
+                        "link": "https://www.vitadao.com/media",
+                        "label": "Media"
+                    }
+                ]
+            },
+            "logo": "https://raw.githubusercontent.com/1Hive/dao-list/master/assets/VitaDAO/logo.png",
+            "logo_type": "https://raw.githubusercontent.com/1Hive/dao-list/master/assets/VitaDAO/logo_type.png",
+            "token_logo": "https://raw.githubusercontent.com/1Hive/dao-list/master/assets/VitaDAO/token_logo.png"
         }
     ]
 }
