@@ -170,8 +170,8 @@
             }
         },
         {
-            "address": "0x79c52e1a74d01cf030f3cbbbbf84b01476c9ac93",
-            "name": "TESTGIVgarden",
+            "address": "0x2050eabe84409e480ad1062001fdb6dfbc836192",
+            "name": "TESTGIVgarden3",
             "description": "Decentrallized governance platform for the GIVeconomy",
             "unipool": "0xE77D387b4be1076891868060c32E81BC3b89C730",
             "rewardsLink": "https://liquidity-mining-dapp.vercel.app/",
@@ -205,37 +205,6 @@
                     }
                 ]
             }
-        },
-        {
-            "address": "0x3fCB90F389E093433F505C64676288a0D25BCd90",
-            "name": "TestGIVgarden2",
-            "description": "Decentralized governance platform for the GIVeconomy",
-            "forum": "https://forum.giveth.io",
-            "links": {
-                "community": [
-                    {
-                        "link": "https://giveth.io",
-                        "label": "Website"
-                    },
-                    {
-                        "link": "https://twitter.com/givethio",
-                        "label": "Twitter"
-                    },
-                    {
-                        "link": "https://medium.com/giveth",
-                        "label": "Medium"
-                    }
-                ],
-                "documentation": [
-                    {
-                        "link": "https://docs.giveth.io",
-                        "label": "Documentation"
-                    }
-                ]
-            },
-            "logo": "https://raw.githubusercontent.com/1Hive/dao-list/master/assets/TestGIVgarden2/logo.png",
-            "logo_type": "https://raw.githubusercontent.com/1Hive/dao-list/master/assets/TestGIVgarden2/logo_type.png",
-            "token_logo": "https://raw.githubusercontent.com/1Hive/dao-list/master/assets/TestGIVgarden2/token_logo.png"
         },
         {
             "address": "0x4AE7b62F1579b4149750a609Ef9B830bC72272F8",
