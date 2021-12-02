@@ -173,7 +173,7 @@
             "address": "0x2050eabe84409e480ad1062001fdb6dfbc836192",
             "name": "TESTGIVgarden3",
             "description": "Decentrallized governance platform for the GIVeconomy",
-            "unipool": "0x26F033515ce926658def0939A8D9a0592D0F5cc9",
+            "unipool": "0x860C72092b7FBca277F94ba1Df11e33043724eAF",
             "rewardsLink": "https://liquidity-mining-dapp.vercel.app/",
             "wrappableToken": {
                 "logo": "https://raw.githubusercontent.com/1Hive/dao-list/master/assets/Giveth/token_logo.png"
