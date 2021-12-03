@@ -940,6 +940,23 @@
             },
             "logo": "https://raw.githubusercontent.com/1Hive/dao-list/master/assets/VitaDAO/logo.png",
             "logo_type": "https://raw.githubusercontent.com/1Hive/dao-list/master/assets/VitaDAO/logo_type.png"
+        },
+        {
+            "address": "0xC2a775ADE09896Af2082cC4f289231d044dD9214",
+            "name": "Network change",
+            "description": "Network change",
+            "forum": "https://forum.1hive.org",
+            "links": {
+                "community": [
+                    {}
+                ],
+                "documentation": [
+                    {}
+                ]
+            },
+            "logo": "https://raw.githubusercontent.com/1Hive/dao-list/master/assets/Network change/logo.png",
+            "logo_type": "https://raw.githubusercontent.com/1Hive/dao-list/master/assets/Network change/logo_type.png",
+            "token_logo": null
         }
     ]
 }
