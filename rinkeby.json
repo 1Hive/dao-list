@@ -957,6 +957,25 @@
             "logo": "https://raw.githubusercontent.com/1Hive/dao-list/master/assets/Network change/logo.png",
             "logo_type": "https://raw.githubusercontent.com/1Hive/dao-list/master/assets/Network change/logo_type.png",
             "token_logo": null
+        },
+        {
+            "address": "0xA79f7cacb03AAE20C5b5f255EF6e68C7beF401ea",
+            "name": "Daoland Test",
+            "description": "Web3 tools for regenerative agriculture",
+            "forum": "https://forum.1hive.org",
+            "links": {
+                "community": [
+                    {}
+                ],
+                "documentation": [
+                    {
+                        "link": "https://docs.google.com/presentation/d/1Rrgkf5MFWIixT7018S8MRRZ5YSMpRxvusWXlizFZCrQ/edit?usp=sharing"
+                    }
+                ]
+            },
+            "logo": "https://raw.githubusercontent.com/1Hive/dao-list/master/assets/Daoland Test/logo.jpeg",
+            "logo_type": "https://raw.githubusercontent.com/1Hive/dao-list/master/assets/Daoland Test/logo_type.jpeg",
+            "token_logo": "https://raw.githubusercontent.com/1Hive/dao-list/master/assets/Daoland Test/token_logo.jpeg"
         }
     ]
 }
