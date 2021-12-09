@@ -976,6 +976,23 @@
             "logo": "https://raw.githubusercontent.com/1Hive/dao-list/master/assets/Daoland Test/logo.jpeg",
             "logo_type": "https://raw.githubusercontent.com/1Hive/dao-list/master/assets/Daoland Test/logo_type.jpeg",
             "token_logo": "https://raw.githubusercontent.com/1Hive/dao-list/master/assets/Daoland Test/token_logo.jpeg"
+        },
+        {
+            "address": "0x02aAcB6E3149A289a317c86A13889Cbb3274Ee3a",
+            "name": "Testing",
+            "description": "testing",
+            "forum": "https://forum.1hive.org",
+            "links": {
+                "community": [
+                    {}
+                ],
+                "documentation": [
+                    {}
+                ]
+            },
+            "logo": null,
+            "logo_type": null,
+            "token_logo": null
         }
     ]
 }
