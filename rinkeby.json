@@ -1010,6 +1010,23 @@
             "logo": null,
             "logo_type": null,
             "token_logo": null
+        },
+        {
+            "address": "0x8cbF425bb8e04f451f5a9D6d665F30D3ec37B84e",
+            "name": "IdaMurni",
+            "description": "test ida",
+            "forum": "https://forum.1hive.org",
+            "links": {
+                "community": [
+                    {}
+                ],
+                "documentation": [
+                    {}
+                ]
+            },
+            "logo": "https://raw.githubusercontent.com/1Hive/dao-list/master/assets/IdaMurni/logo.jpeg",
+            "logo_type": "https://raw.githubusercontent.com/1Hive/dao-list/master/assets/IdaMurni/logo_type.jpeg",
+            "token_logo": "https://raw.githubusercontent.com/1Hive/dao-list/master/assets/IdaMurni/token_logo.jpeg"
         }
     ]
 }
