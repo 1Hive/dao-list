@@ -993,6 +993,23 @@
             "logo": null,
             "logo_type": null,
             "token_logo": null
+        },
+        {
+            "address": "0xF4e8F716F474E25A0BA585726c26812CEAc23FD2",
+            "name": "Testing cv precision",
+            "description": "dfsdfsdf",
+            "forum": "https://forum.1hive.org",
+            "links": {
+                "community": [
+                    {}
+                ],
+                "documentation": [
+                    {}
+                ]
+            },
+            "logo": null,
+            "logo_type": null,
+            "token_logo": null
         }
     ]
 }
