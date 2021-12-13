@@ -1027,6 +1027,23 @@
             "logo": "https://raw.githubusercontent.com/1Hive/dao-list/master/assets/IdaMurni/logo.jpeg",
             "logo_type": "https://raw.githubusercontent.com/1Hive/dao-list/master/assets/IdaMurni/logo_type.jpeg",
             "token_logo": "https://raw.githubusercontent.com/1Hive/dao-list/master/assets/IdaMurni/token_logo.jpeg"
+        },
+        {
+            "address": "0x0e5a064E67859d99Ce1BcBcf549Ab3DF7A9257b6",
+            "name": "Voting test",
+            "description": "Voting test",
+            "forum": "https://forum.1hive.org",
+            "links": {
+                "community": [
+                    {}
+                ],
+                "documentation": [
+                    {}
+                ]
+            },
+            "logo": null,
+            "logo_type": null,
+            "token_logo": null
         }
     ]
 }
