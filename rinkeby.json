@@ -1044,6 +1044,23 @@
             "logo": null,
             "logo_type": null,
             "token_logo": null
+        },
+        {
+            "address": "0x37b3b7044d1872d66d8b6CC8088968C68420F67D",
+            "name": "Garden UX test",
+            "description": "Garden description test",
+            "forum": "https://forum.1hive.org",
+            "links": {
+                "community": [
+                    {}
+                ],
+                "documentation": [
+                    {}
+                ]
+            },
+            "logo": null,
+            "logo_type": "https://raw.githubusercontent.com/1Hive/dao-list/master/assets/Garden UX test/logo_type.png",
+            "token_logo": null
         }
     ]
 }
