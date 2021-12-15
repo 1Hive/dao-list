@@ -1061,6 +1061,23 @@
             "logo": null,
             "logo_type": "https://raw.githubusercontent.com/1Hive/dao-list/master/assets/Garden UX test/logo_type.png",
             "token_logo": null
+        },
+        {
+            "address": "0x28c38bbA879160200a9c9977C2D11D5e0AB38676",
+            "name": "Gardens UX test",
+            "description": "Gardens description test",
+            "forum": "https://forum.1hive.org",
+            "links": {
+                "community": [
+                    {}
+                ],
+                "documentation": [
+                    {}
+                ]
+            },
+            "logo": "https://raw.githubusercontent.com/1Hive/dao-list/master/assets/Gardens UX test/logo.png",
+            "logo_type": "https://raw.githubusercontent.com/1Hive/dao-list/master/assets/Gardens UX test/logo_type.png",
+            "token_logo": null
         }
     ]
 }
