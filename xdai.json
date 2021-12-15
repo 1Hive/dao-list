@@ -258,6 +258,7 @@
             "address": "0xBF2d7d659E45bB0dED75d89eAF5f267FD1cE0aDE",
             "name": "DRGIVgarden",
             "description": "Decentralized governance platform for the GIVeconomy",
+            "rewardsLink": "https://liquidity-mining-dapp.vercel.app/givgarden",
             "forum": "https://forum.giveth.io",
             "links": {
                 "community": [
