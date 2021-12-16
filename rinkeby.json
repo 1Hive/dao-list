@@ -1078,6 +1078,23 @@
             "logo": "https://raw.githubusercontent.com/1Hive/dao-list/master/assets/Gardens UX test/logo.png",
             "logo_type": "https://raw.githubusercontent.com/1Hive/dao-list/master/assets/Gardens UX test/logo_type.png",
             "token_logo": null
+        },
+        {
+            "address": "0xD5c9F513e63722315c2EBEA7c0c2f4a42edCf844",
+            "name": "Rodrigo's Garden",
+            "description": "Garden of Rodrigo Dictator",
+            "forum": "https://forum.1hive.org",
+            "links": {
+                "community": [
+                    {}
+                ],
+                "documentation": [
+                    {}
+                ]
+            },
+            "logo": null,
+            "logo_type": null,
+            "token_logo": null
         }
     ]
 }
