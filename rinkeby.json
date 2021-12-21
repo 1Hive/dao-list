@@ -1112,6 +1112,23 @@
             "logo": null,
             "logo_type": null,
             "token_logo": null
+        },
+        {
+            "address": "0xB691f8c0cA869695D221aD1F3EE770D5C52e328c",
+            "name": "Test Garden",
+            "description": "My garden",
+            "forum": "https://forum.1hive.org",
+            "links": {
+                "community": [
+                    {}
+                ],
+                "documentation": [
+                    {}
+                ]
+            },
+            "logo": null,
+            "logo_type": null,
+            "token_logo": null
         }
     ]
 }
