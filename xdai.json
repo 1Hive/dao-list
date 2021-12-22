@@ -394,6 +394,23 @@
             "logo": "https://raw.githubusercontent.com/1Hive/dao-list/master/assets/DRGIV3Garden/logo.png",
             "logo_type": "https://raw.githubusercontent.com/1Hive/dao-list/master/assets/DRGIV3Garden/logo_type.png",
             "token_logo": "https://raw.githubusercontent.com/1Hive/dao-list/master/assets/DRGIV3Garden/token_logo.png"
+        },
+        {
+            "address": "0x16388D99199A74810fc572049b3d4D657e7D5deB",
+            "name": "DRGIV4Garden",
+            "description": "The decentralized governance platform for the GIVeconomy.",
+            "forum": "https://forum.giveth.io",
+            "links": {
+                "community": [
+                    {}
+                ],
+                "documentation": [
+                    {}
+                ]
+            },
+            "logo": "https://raw.githubusercontent.com/1Hive/dao-list/master/assets/DRGIV4Garden/logo.png",
+            "logo_type": "https://raw.githubusercontent.com/1Hive/dao-list/master/assets/DRGIV4Garden/logo_type.png",
+            "token_logo": "https://raw.githubusercontent.com/1Hive/dao-list/master/assets/DRGIV4Garden/token_logo.png"
         }
     ]
 }
