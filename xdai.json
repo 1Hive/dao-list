@@ -326,6 +326,7 @@
             "name": "GIVgarden",
             "description": "The decentralized governance platform for the GIVeconomy",
             "forum": "https://forum.giveth.io",
+            "rewardsLink": "https://giv.giveth.io/givgarden",
             "links": {
                 "community": [
                     {
