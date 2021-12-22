@@ -324,6 +324,9 @@
                     }
                 ]
             },
+            "wrappableToken": {
+                "logo": "https://raw.githubusercontent.com/1Hive/dao-list/master/assets/DRGIV3Garden/token_logo.png"
+            },
             "logo": "https://raw.githubusercontent.com/1Hive/dao-list/master/assets/DRGIV3Garden/logo.png",
             "logo_type": "https://raw.githubusercontent.com/1Hive/dao-list/master/assets/DRGIV3Garden/logo_type.png",
             "token_logo": "https://raw.githubusercontent.com/1Hive/dao-list/master/assets/DRGIV3Garden/token_logo.png"
