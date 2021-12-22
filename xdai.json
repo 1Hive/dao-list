@@ -255,73 +255,6 @@
             }
         },
         {
-            "address": "0xBF2d7d659E45bB0dED75d89eAF5f267FD1cE0aDE",
-            "name": "DRGIVgarden",
-            "description": "Decentralized governance platform for the GIVeconomy",
-            "rewardsLink": "https://liquidity-mining-dapp.vercel.app/givgarden",
-            "forum": "https://forum.giveth.io",
-            "links": {
-                "community": [
-                    {
-                        "link": "https://giveth.io",
-                        "label": "website"
-                    },
-                    {
-                        "link": "https://twitter.com/givethio",
-                        "label": "twitter"
-                    },
-                    {
-                        "link": "https://medium.com/giveth",
-                        "label": "medium"
-                    }
-                ],
-                "documentation": [
-                    {
-                        "link": "https://docs.giveth.io",
-                        "label": "documentation"
-                    }
-                ]
-            },
-            "logo": "https://raw.githubusercontent.com/1Hive/dao-list/master/assets/DRGIVgarden/logo.png",
-            "logo_type": "https://raw.githubusercontent.com/1Hive/dao-list/master/assets/DRGIVgarden/logo_type.png",
-            "token_logo": "https://raw.githubusercontent.com/1Hive/dao-list/master/assets/DRGIVgarden/token_logo.png"
-        },
-        {
-            "address": "0xb3F3da0080a8811d887531Ca4C0Dbfe3490bd1a1",
-            "name": "DRGIV2garden",
-            "description": "The decentralized governance platform for the GIVeconomy",
-            "forum": "https://forum.giveth.io",
-            "links": {
-                "community": [
-                    {
-                        "link": "https://giveth.io",
-                        "label": "Website"
-                    },
-                    {
-                        "link": "https://discord.giveth.io/",
-                        "label": "Discord"
-                    },
-                    {
-                        "link": "https://twitter.com/givethio",
-                        "label": "Twitter"
-                    },
-                    {
-                        "link": "https://medium.com/giveth",
-                        "label": "Medium"
-                    }
-                ],
-                "documentation": [
-                    {
-                        "link": "https://docs.giveth.io",
-                        "label": "Documentation"
-                    }
-                ]
-            },
-            "logo": "https://raw.githubusercontent.com/1Hive/dao-list/master/assets/DRGIV2garden/logo.png",
-            "logo_type": "https://raw.githubusercontent.com/1Hive/dao-list/master/assets/DRGIV2garden/logo_type.png",
-            "token_logo": "https://raw.githubusercontent.com/1Hive/dao-list/master/assets/DRGIV2garden/token_logo.png"
-        },
-        {
             "address": "0x9CeaC080e12Ab6700EEf58c45fA02A50E8E2CD4B",
             "name": "GIVgarden",
             "description": "The decentralized governance platform for the GIVeconomy",
@@ -361,7 +294,7 @@
             "token_logo": "https://raw.githubusercontent.com/1Hive/dao-list/master/assets/GIVgarden/token_logo.png"
         },
         {
-            "address": "0x4Cc26143871843fF1334d9BEF3F93F0fD0ad3ebB",
+            "address": "0x16388d99199a74810fc572049b3d4d657e7d5deb",
             "name": "DRGIV3Garden",
             "description": "The decentralized governance platform for the GIVeconomy.",
             "forum": "https://forum.giveth.io",
@@ -394,23 +327,6 @@
             "logo": "https://raw.githubusercontent.com/1Hive/dao-list/master/assets/DRGIV3Garden/logo.png",
             "logo_type": "https://raw.githubusercontent.com/1Hive/dao-list/master/assets/DRGIV3Garden/logo_type.png",
             "token_logo": "https://raw.githubusercontent.com/1Hive/dao-list/master/assets/DRGIV3Garden/token_logo.png"
-        },
-        {
-            "address": "0x16388D99199A74810fc572049b3d4D657e7D5deB",
-            "name": "DRGIV4Garden",
-            "description": "The decentralized governance platform for the GIVeconomy.",
-            "forum": "https://forum.giveth.io",
-            "links": {
-                "community": [
-                    {}
-                ],
-                "documentation": [
-                    {}
-                ]
-            },
-            "logo": "https://raw.githubusercontent.com/1Hive/dao-list/master/assets/DRGIV4Garden/logo.png",
-            "logo_type": "https://raw.githubusercontent.com/1Hive/dao-list/master/assets/DRGIV4Garden/logo_type.png",
-            "token_logo": "https://raw.githubusercontent.com/1Hive/dao-list/master/assets/DRGIV4Garden/token_logo.png"
         }
     ]
 }
