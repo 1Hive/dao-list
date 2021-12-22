@@ -285,6 +285,41 @@
             "logo": "https://raw.githubusercontent.com/1Hive/dao-list/master/assets/DRGIVgarden/logo.png",
             "logo_type": "https://raw.githubusercontent.com/1Hive/dao-list/master/assets/DRGIVgarden/logo_type.png",
             "token_logo": "https://raw.githubusercontent.com/1Hive/dao-list/master/assets/DRGIVgarden/token_logo.png"
+        },
+        {
+            "address": "0xb3F3da0080a8811d887531Ca4C0Dbfe3490bd1a1",
+            "name": "DRGIV2garden",
+            "description": "The decentralized governance platform for the GIVeconomy",
+            "forum": "https://forum.giveth.io",
+            "links": {
+                "community": [
+                    {
+                        "link": "https://giveth.io",
+                        "label": "Website"
+                    },
+                    {
+                        "link": "https://discord.giveth.io/",
+                        "label": "Discord"
+                    },
+                    {
+                        "link": "https://twitter.com/givethio",
+                        "label": "Twitter"
+                    },
+                    {
+                        "link": "https://medium.com/giveth",
+                        "label": "Medium"
+                    }
+                ],
+                "documentation": [
+                    {
+                        "link": "https://docs.giveth.io",
+                        "label": "Documentation"
+                    }
+                ]
+            },
+            "logo": "https://raw.githubusercontent.com/1Hive/dao-list/master/assets/DRGIV2garden/logo.png",
+            "logo_type": "https://raw.githubusercontent.com/1Hive/dao-list/master/assets/DRGIV2garden/logo_type.png",
+            "token_logo": "https://raw.githubusercontent.com/1Hive/dao-list/master/assets/DRGIV2garden/token_logo.png"
         }
     ]
 }
