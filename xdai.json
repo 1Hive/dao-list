@@ -333,9 +333,10 @@
         },
         {
             "address": "0xB25F0eE2d26461E2B5B3D3DDAFE197A0dA677B98",
-            "name": "GIV",
+            "name": "GIVgarden",
             "description": "The decentralized governance platform for the GIVeconomy",
             "forum": "https://forum.giveth.io",
+            "rewardsLink": "https://giv.giveth.io/givgarden",
             "links": {
                 "community": [
                     {
@@ -361,6 +362,9 @@
                         "label": "Documentation"
                     }
                 ]
+            },
+            "wrappableToken": {
+                "logo": "https://raw.githubusercontent.com/1Hive/dao-list/master/assets/DRGIV3Garden/token_logo.png"
             },
             "logo": "https://raw.githubusercontent.com/1Hive/dao-list/master/assets/GIV/logo.png",
             "logo_type": "https://raw.githubusercontent.com/1Hive/dao-list/master/assets/GIV/logo_type.png",
