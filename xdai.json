@@ -255,45 +255,6 @@
             }
         },
         {
-            "address": "0x9CeaC080e12Ab6700EEf58c45fA02A50E8E2CD4B",
-            "name": "GIVgarden",
-            "description": "The decentralized governance platform for the GIVeconomy",
-            "forum": "https://forum.giveth.io",
-            "rewardsLink": "https://giv.giveth.io/givgarden",
-            "links": {
-                "community": [
-                    {
-                        "link": "https://giveth.io",
-                        "label": "Website"
-                    },
-                    {
-                        "link": "https://discord.giveth.io/",
-                        "label": "Discord"
-                    },
-                    {
-                        "link": "https://twitter.com/givethio",
-                        "label": "Twitter"
-                    },
-                    {
-                        "link": "https://medium.com/giveth",
-                        "label": "Medium"
-                    }
-                ],
-                "documentation": [
-                    {
-                        "link": "https://docs.giveth.io",
-                        "label": "Documentation"
-                    }
-                ]
-            },
-            "wrappableToken": {
-                "logo": "https://raw.githubusercontent.com/1Hive/dao-list/master/assets/GIVgarden/token_logo.png"
-            },
-            "logo": "https://raw.githubusercontent.com/1Hive/dao-list/master/assets/GIVgarden/logo.png",
-            "logo_type": "https://raw.githubusercontent.com/1Hive/dao-list/master/assets/GIVgarden/logo_type.png",
-            "token_logo": "https://raw.githubusercontent.com/1Hive/dao-list/master/assets/GIVgarden/token_logo.png"
-        },
-        {
             "address": "0x16388d99199a74810fc572049b3d4d657e7d5deb",
             "name": "DRGIV3Garden",
             "description": "The decentralized governance platform for the GIVeconomy.",
@@ -325,11 +286,11 @@
                 ]
             },
             "wrappableToken": {
-                "logo": "https://raw.githubusercontent.com/1Hive/dao-list/master/assets/DRGIV3Garden/token_logo.png"
+                "logo": "https://raw.githubusercontent.com/1Hive/dao-list/master/assets/GIVgarden/wrappable_token_logo.png"
             },
-            "logo": "https://raw.githubusercontent.com/1Hive/dao-list/master/assets/DRGIV3Garden/logo.png",
-            "logo_type": "https://raw.githubusercontent.com/1Hive/dao-list/master/assets/DRGIV3Garden/logo_type.png",
-            "token_logo": "https://raw.githubusercontent.com/1Hive/dao-list/master/assets/DRGIV3Garden/token_logo.png"
+            "logo": "https://raw.githubusercontent.com/1Hive/dao-list/master/assets/GIVgarden/logo.png",
+            "logo_type": "https://raw.githubusercontent.com/1Hive/dao-list/master/assets/GIVgarden/logo_type.png",
+            "token_logo": "https://raw.githubusercontent.com/1Hive/dao-list/master/assets/GIVgarden/token_logo.png"
         },
         {
             "address": "0xB25F0eE2d26461E2B5B3D3DDAFE197A0dA677B98",
@@ -364,11 +325,11 @@
                 ]
             },
             "wrappableToken": {
-                "logo": "https://raw.githubusercontent.com/1Hive/dao-list/master/assets/DRGIV3Garden/token_logo.png"
+                "logo": "https://raw.githubusercontent.com/1Hive/dao-list/master/assets/GIVgarden/wrappable_token_logo.png"
             },
-            "logo": "https://raw.githubusercontent.com/1Hive/dao-list/master/assets/GIV/logo.png",
-            "logo_type": "https://raw.githubusercontent.com/1Hive/dao-list/master/assets/GIV/logo_type.png",
-            "token_logo": "https://raw.githubusercontent.com/1Hive/dao-list/master/assets/GIV/token_logo.png"
+            "logo": "https://raw.githubusercontent.com/1Hive/dao-list/master/assets/GIVgarden/logo.png",
+            "logo_type": "https://raw.githubusercontent.com/1Hive/dao-list/master/assets/GIVgarden/logo_type.png",
+            "token_logo": "https://raw.githubusercontent.com/1Hive/dao-list/master/assets/GIVgarden/token_logo.png"
         }
     ]
 }
