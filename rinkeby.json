@@ -1129,6 +1129,26 @@
             "logo": null,
             "logo_type": null,
             "token_logo": null
+        },
+        {
+            "address": "0x3990E8E431330C1102ccF87702f1076677A7c1F9",
+            "name": "KombitKafe",
+            "description": "Kombit is derived from Haitian word 'konbit' when many hands join together to build a project ",
+            "forum": "https://discord.gg/XQ5WkDFMDF",
+            "links": {
+                "community": [
+                    {
+                        "link": "https://discord.gg/XQ5WkDFMDF",
+                        "label": "Forum"
+                    }
+                ],
+                "documentation": [
+                    {}
+                ]
+            },
+            "logo": "https://raw.githubusercontent.com/1Hive/dao-list/master/assets/KombitKafe/logo.png",
+            "logo_type": "https://raw.githubusercontent.com/1Hive/dao-list/master/assets/KombitKafe/logo_type.png",
+            "token_logo": "https://raw.githubusercontent.com/1Hive/dao-list/master/assets/KombitKafe/token_logo.png"
         }
     ]
 }
