@@ -294,6 +294,7 @@
         },
         {
             "address": "0xB25F0eE2d26461E2B5B3D3DDAFE197A0dA677B98",
+            "unipool": "0xD93d3bDBa18ebcB3317a57119ea44ed2Cf41C2F2",
             "name": "GIVgarden",
             "description": "The decentralized governance platform for the GIVeconomy",
             "forum": "https://forum.giveth.io",
