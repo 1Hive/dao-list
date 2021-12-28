@@ -1149,6 +1149,23 @@
             "logo": "https://raw.githubusercontent.com/1Hive/dao-list/master/assets/KombitKafe/logo.png",
             "logo_type": "https://raw.githubusercontent.com/1Hive/dao-list/master/assets/KombitKafe/logo_type.png",
             "token_logo": "https://raw.githubusercontent.com/1Hive/dao-list/master/assets/KombitKafe/token_logo.png"
+        },
+        {
+            "address": "0x3b93453589609d9cC9923F5b11232559999A7694",
+            "name": "Chi",
+            "description": "Testing",
+            "forum": "https://forum.1hive.org",
+            "links": {
+                "community": [
+                    {}
+                ],
+                "documentation": [
+                    {}
+                ]
+            },
+            "logo": null,
+            "logo_type": null,
+            "token_logo": null
         }
     ]
 }
