@@ -1166,6 +1166,23 @@
             "logo": null,
             "logo_type": null,
             "token_logo": null
+        },
+        {
+            "address": "0x4eD0bCa38a2e6369a97A9df8C73251EB3bDF8f7d",
+            "name": "Sequoia",
+            "description": "A giant sequoia grove",
+            "forum": "https://forum.1hive.org",
+            "links": {
+                "community": [
+                    {}
+                ],
+                "documentation": [
+                    {}
+                ]
+            },
+            "logo": null,
+            "logo_type": null,
+            "token_logo": null
         }
     ]
 }
