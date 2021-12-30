@@ -331,6 +331,29 @@
             "logo": "https://raw.githubusercontent.com/1Hive/dao-list/master/assets/GIVgarden/logo.png",
             "logo_type": "https://raw.githubusercontent.com/1Hive/dao-list/master/assets/GIVgarden/logo_type.png",
             "token_logo": "https://raw.githubusercontent.com/1Hive/dao-list/master/assets/GIVgarden/token_logo.png"
+        },
+        {
+            "address": "0x33e2B97B691d6Bd34d6728BbF769dAA70f679136",
+            "name": "Smurf INU",
+            "description": "Must feed the village",
+            "forum": "https://forum.1hive.org",
+            "links": {
+                "community": [
+                    {
+                        "link": "https://t.me/smurfinu"
+                    },
+                    {
+                        "link": "",
+                        "label": ""
+                    }
+                ],
+                "documentation": [
+                    {}
+                ]
+            },
+            "logo": null,
+            "logo_type": "https://raw.githubusercontent.com/1Hive/dao-list/master/assets/Smurf INU/logo_type.png",
+            "token_logo": "https://raw.githubusercontent.com/1Hive/dao-list/master/assets/Smurf INU/token_logo.png"
         }
     ]
 }
