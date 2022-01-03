@@ -354,6 +354,25 @@
             "logo": null,
             "logo_type": "https://raw.githubusercontent.com/1Hive/dao-list/master/assets/Smurf INU/logo_type.png",
             "token_logo": "https://raw.githubusercontent.com/1Hive/dao-list/master/assets/Smurf INU/token_logo.png"
+        },
+        {
+            "address": "0xB9AF4410C15d5c45F7b222ddE31B0C5C8f575D5F",
+            "name": "crypto bridge",
+            "description": "Community token",
+            "forum": "https://forum.1hive.org",
+            "links": {
+                "community": [
+                    {
+                        "link": "https://twitter.com/lvbatou123"
+                    }
+                ],
+                "documentation": [
+                    {}
+                ]
+            },
+            "logo": "https://raw.githubusercontent.com/1Hive/dao-list/master/assets/crypto bridge/logo.jpeg",
+            "logo_type": "https://raw.githubusercontent.com/1Hive/dao-list/master/assets/crypto bridge/logo_type.jpeg",
+            "token_logo": "https://raw.githubusercontent.com/1Hive/dao-list/master/assets/crypto bridge/token_logo.jpeg"
         }
     ]
 }
