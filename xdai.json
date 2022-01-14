@@ -370,14 +370,14 @@
                     {}
                 ]
             },
-            "logo": "https://raw.githubusercontent.com/1Hive/dao-list/master/assets/crypto bridge/logo.jpeg",
-            "logo_type": "https://raw.githubusercontent.com/1Hive/dao-list/master/assets/crypto bridge/logo_type.jpeg",
-            "token_logo": "https://raw.githubusercontent.com/1Hive/dao-list/master/assets/crypto bridge/token_logo.jpeg"
+            "logo": null,
+            "logo_type": null,
+            "token_logo": null
         },
         {
             "address": "0x7A9440DE3378d054C06B17A03428C015346D1f03",
             "name": "CryptoVerse",
-            "description": "we study together,we make money ttogether",
+            "description": "We study together, we make money together",
             "forum": "https://forum.1hive.org",
             "links": {
                 "community": [
