@@ -1183,6 +1183,23 @@
             "logo": null,
             "logo_type": null,
             "token_logo": null
+        },
+        {
+            "address": "0x5EC57F7AB2Ff0e8D138ab12DC9C7250BBE6dAbB2",
+            "name": "RodrigoTest2",
+            "description": "test",
+            "forum": "https://forum.1hive.org",
+            "links": {
+                "community": [
+                    {}
+                ],
+                "documentation": [
+                    {}
+                ]
+            },
+            "logo": null,
+            "logo_type": null,
+            "token_logo": null
         }
     ]
 }
