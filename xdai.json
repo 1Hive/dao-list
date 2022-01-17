@@ -176,7 +176,7 @@
             "unipool": "0x860C72092b7FBca277F94ba1Df11e33043724eAF",
             "rewardsLink": "https://liquidity-mining-dapp.vercel.app/",
             "wiki": "https://docs.giveth.io",
-            "forum": "https://forum.giveth.io",
+            "forum": "https://forum.giveth.io/",
             "links": {
                 "community": [
                     {
@@ -297,7 +297,7 @@
             "unipool": "0xD93d3bDBa18ebcB3317a57119ea44ed2Cf41C2F2",
             "name": "GIVgarden",
             "description": "The decentralized governance platform for the GIVeconomy",
-            "forum": "https://forum.giveth.io",
+            "forum": "https://forum.giveth.io/",
             "rewardsLink": "https://giv.giveth.io/givgarden",
             "links": {
                 "community": [
@@ -336,7 +336,7 @@
             "address": "0x33e2B97B691d6Bd34d6728BbF769dAA70f679136",
             "name": "Smurf INU",
             "description": "Must feed the village",
-            "forum": "https://forum.1hive.org",
+            "forum": "https://forum.1hive.org/",
             "links": {
                 "community": [
                     {
@@ -359,7 +359,7 @@
             "address": "0xB9AF4410C15d5c45F7b222ddE31B0C5C8f575D5F",
             "name": "crypto bridge",
             "description": "Community token",
-            "forum": "https://forum.1hive.org",
+            "forum": "https://forum.1hive.org/",
             "links": {
                 "community": [
                     {
@@ -378,7 +378,7 @@
             "address": "0x7A9440DE3378d054C06B17A03428C015346D1f03",
             "name": "CryptoVerse",
             "description": "We study together, we make money together",
-            "forum": "https://forum.1hive.org",
+            "forum": "https://forum.1hive.org/",
             "links": {
                 "community": [
                     {}
