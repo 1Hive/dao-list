@@ -345,9 +345,9 @@
                     {}
                 ]
             },
-            "logo": "https://raw.githubusercontent.com/1Hive/dao-list/master/assets/Garden DAO test 91343/logo.png",
-            "logo_type": "https://raw.githubusercontent.com/1Hive/dao-list/master/assets/Garden DAO test 91343/logo_type.png",
-            "token_logo": "https://raw.githubusercontent.com/1Hive/dao-list/master/assets/Garden DAO test 91343/token_logo.png"
+            "logo": null,
+            "logo_type": null,
+            "token_logo": null
         },
         {
             "address": "0xd89395872d0b7a7CeAE37122fd668C6F1D8ffe0D",
@@ -362,9 +362,9 @@
                     {}
                 ]
             },
-            "logo": "https://raw.githubusercontent.com/1Hive/dao-list/master/assets/Garden DAO test 40792/logo.png",
-            "logo_type": "https://raw.githubusercontent.com/1Hive/dao-list/master/assets/Garden DAO test 40792/logo_type.png",
-            "token_logo": "https://raw.githubusercontent.com/1Hive/dao-list/master/assets/Garden DAO test 40792/token_logo.png"
+            "logo": null,
+            "logo_type": null,
+            "token_logo": null
         },
         {
             "address": "0x8827511893192DEEAc455B670622785829c675c2",
@@ -973,9 +973,9 @@
                     }
                 ]
             },
-            "logo": "https://raw.githubusercontent.com/1Hive/dao-list/master/assets/Daoland Test/logo.jpeg",
-            "logo_type": "https://raw.githubusercontent.com/1Hive/dao-list/master/assets/Daoland Test/logo_type.jpeg",
-            "token_logo": "https://raw.githubusercontent.com/1Hive/dao-list/master/assets/Daoland Test/token_logo.jpeg"
+            "logo": null,
+            "logo_type": null,
+            "token_logo": null
         },
         {
             "address": "0x02aAcB6E3149A289a317c86A13889Cbb3274Ee3a",
@@ -1024,9 +1024,9 @@
                     {}
                 ]
             },
-            "logo": "https://raw.githubusercontent.com/1Hive/dao-list/master/assets/IdaMurni/logo.jpeg",
-            "logo_type": "https://raw.githubusercontent.com/1Hive/dao-list/master/assets/IdaMurni/logo_type.jpeg",
-            "token_logo": "https://raw.githubusercontent.com/1Hive/dao-list/master/assets/IdaMurni/token_logo.jpeg"
+            "logo": null,
+            "logo_type": null,
+            "token_logo": null
         },
         {
             "address": "0x0e5a064E67859d99Ce1BcBcf549Ab3DF7A9257b6",
@@ -1083,23 +1083,6 @@
             "address": "0xD5c9F513e63722315c2EBEA7c0c2f4a42edCf844",
             "name": "Rodrigo's Garden",
             "description": "Garden of Rodrigo Dictator",
-            "forum": "https://forum.1hive.org",
-            "links": {
-                "community": [
-                    {}
-                ],
-                "documentation": [
-                    {}
-                ]
-            },
-            "logo": null,
-            "logo_type": null,
-            "token_logo": null
-        },
-        {
-            "address": "0x21dB253CEEB40eF26e433441f9FA0aA855caeb3a",
-            "name": "Rodrigos tst",
-            "description": "tst",
             "forum": "https://forum.1hive.org",
             "links": {
                 "community": [
@@ -1171,23 +1154,6 @@
             "address": "0x4eD0bCa38a2e6369a97A9df8C73251EB3bDF8f7d",
             "name": "Sequoia",
             "description": "A giant sequoia grove",
-            "forum": "https://forum.1hive.org",
-            "links": {
-                "community": [
-                    {}
-                ],
-                "documentation": [
-                    {}
-                ]
-            },
-            "logo": null,
-            "logo_type": null,
-            "token_logo": null
-        },
-        {
-            "address": "0x5EC57F7AB2Ff0e8D138ab12DC9C7250BBE6dAbB2",
-            "name": "RodrigoTest2",
-            "description": "test",
             "forum": "https://forum.1hive.org",
             "links": {
                 "community": [
