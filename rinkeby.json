@@ -1203,6 +1203,23 @@
             "logo": "https://raw.githubusercontent.com/1Hive/dao-list/master/assets/Boboli Test Garden/logo.png",
             "logo_type": "https://raw.githubusercontent.com/1Hive/dao-list/master/assets/Boboli Test Garden/logo_type.png",
             "token_logo": "https://raw.githubusercontent.com/1Hive/dao-list/master/assets/Boboli Test Garden/token_logo.png"
+        },
+        {
+            "address": "0x28953dF1E5c27590362CC087f7F4245e320dE68A",
+            "name": "Garden Boboli test",
+            "description": "test",
+            "forum": "https://forum.1hive.org",
+            "links": {
+                "community": [
+                    {}
+                ],
+                "documentation": [
+                    {}
+                ]
+            },
+            "logo": null,
+            "logo_type": null,
+            "token_logo": null
         }
     ]
 }
