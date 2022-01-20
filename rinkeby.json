@@ -1220,6 +1220,26 @@
             "logo": null,
             "logo_type": null,
             "token_logo": null
+        },
+        {
+            "address": "0x3D9f716D8BF01939e5f0B1cfbd2fc08A9E87d5c8",
+            "name": "ElChefeGarden11",
+            "description": "ElChefe",
+            "forum": "https://forum.1hive.org",
+            "links": {
+                "community": [
+                    {}
+                ],
+                "documentation": [
+                    {}
+                ]
+            },
+            "logo": null,
+            "logo_type": null,
+            "token_logo": null,
+            "wrappableToken": {
+                "logo": "https://raw.githubusercontent.com/1Hive/dao-list/master/assets/ElChefeGarden11/wrappable_token_logo.png"
+            }
         }
     ]
 }
