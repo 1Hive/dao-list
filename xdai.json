@@ -390,6 +390,25 @@
             "logo": null,
             "logo_type": null,
             "token_logo": null
+        },
+        {
+            "address": "0xb62da478cE1c1Fd1Bf30626AC75E535ed5D1c748",
+            "name": "Proyecto Delta",
+            "description": "Proyecto para la financiación de un terreno en el Delta Tigre",
+            "forum": "https://sucoin.info",
+            "links": {
+                "community": [
+                    {
+                        "link": "https://sucoin.info"
+                    }
+                ],
+                "documentation": [
+                    {}
+                ]
+            },
+            "logo": null,
+            "logo_type": null,
+            "token_logo": null
         }
     ]
 }
