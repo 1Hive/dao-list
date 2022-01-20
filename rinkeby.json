@@ -1186,6 +1186,23 @@
             "logo": "https://raw.githubusercontent.com/1Hive/dao-list/master/assets/JucaJuca/logo.png",
             "logo_type": "https://raw.githubusercontent.com/1Hive/dao-list/master/assets/JucaJuca/logo_type.png",
             "token_logo": "https://raw.githubusercontent.com/1Hive/dao-list/master/assets/JucaJuca/token_logo.png"
+        },
+        {
+            "address": "0xfE4Cca71d6dc3aF79ec71C0d818447e832eFE0Eb",
+            "name": "Boboli Test Garden",
+            "description": "Garden boboli test",
+            "forum": "https://forum.1hive.org",
+            "links": {
+                "community": [
+                    {}
+                ],
+                "documentation": [
+                    {}
+                ]
+            },
+            "logo": "https://raw.githubusercontent.com/1Hive/dao-list/master/assets/Boboli Test Garden/logo.png",
+            "logo_type": "https://raw.githubusercontent.com/1Hive/dao-list/master/assets/Boboli Test Garden/logo_type.png",
+            "token_logo": "https://raw.githubusercontent.com/1Hive/dao-list/master/assets/Boboli Test Garden/token_logo.png"
         }
     ]
 }
