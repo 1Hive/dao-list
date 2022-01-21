@@ -1,3 +1,36 @@
 {
-    "gardens": []
+    "gardens": [
+        {
+             "address": "0x5fdaba692f7efc5d2ab372f84d6e0c17a16534c0",
+             "name": "IdaMurni",
+             "description": "Serve own ecosystem in a multi-blockchain will giving flexibilities and opportunity to involve the future.",
+             "token_logo": "https://raw.githubusercontent.com/1Hive/dao-list/master/assets/IdaMurni/token_logo.png",
+             "logo": "https://raw.githubusercontent.com/1Hive/dao-list/master/assets/IdaMurni/logo.png",
+             "logo_type": "https://raw.githubusercontent.com/1Hive/dao-list/master/assets/IdaMurni/logo_type.png",
+             "wiki": "https://idamurni.gitbook.io/ida/",
+             "forum": "https://forum.1hive.org/",
+             "links": {
+                 "community": [
+                     {
+                         "label": "Discord",
+                         "link": "https://discord.gg/bpnRphBxFp"
+                     },
+                     {
+                         "label": "Github",
+                         "link": "https://github.com/IdaMurni"
+                     },
+                     {
+                         "label": "Twitter",
+                         "link": "https://twitter.com/idamurni_IDA"
+                     }
+                 ],
+                 "documentation": [
+                     {
+                         "label": "Medium",
+                         "link": "https://medium.com/@idamurni"
+                     }
+                 ]
+             }
+         }
+    ]
 }
