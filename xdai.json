@@ -409,6 +409,30 @@
             "logo": null,
             "logo_type": null,
             "token_logo": null
+        },
+        {
+            "address": "0x3043eD0d658fCf4E95b8739B83cE7Ca46527bdF1",
+            "name": "BRiX",
+            "description": "We are building an open source framework for the HubSpot CMS",
+            "forum": "https://forum.1hive.org",
+            "links": {
+                "community": [
+                    {
+                        "link": "https://gobrix.io",
+                        "label": "Web"
+                    },
+                    {
+                        "link": "https://gobrix.slack.com/",
+                        "label": "Slack"
+                    }
+                ],
+                "documentation": [
+                    {}
+                ]
+            },
+            "logo": null,
+            "logo_type": null,
+            "token_logo": null
         }
     ]
 }
