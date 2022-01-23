@@ -433,6 +433,29 @@
             "logo": null,
             "logo_type": null,
             "token_logo": null
+        },
+        {
+            "address": "0x32bE54837A6d3523e8e5C7684256c572C07D9c1d",
+            "name": "Agitproper",
+            "description": "A place to do it proper. And tell people to do it proper. To agitate properly.",
+            "forum": "https://discord.gg/MNGwByPSwK",
+            "links": {
+                "community": [
+                    {
+                        "link": "https://agitproper.org",
+                        "label": "Website"
+                    }
+                ],
+                "documentation": [
+                    {
+                        "link": "https://github.com/ray-dorai/agitproper",
+                        "label": "Github"
+                    }
+                ]
+            },
+            "logo": "https://raw.githubusercontent.com/1Hive/dao-list/master/assets/Agitproper/logo.png",
+            "logo_type": null,
+            "token_logo": "https://raw.githubusercontent.com/1Hive/dao-list/master/assets/Agitproper/token_logo.png"
         }
     ]
 }
