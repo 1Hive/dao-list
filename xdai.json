@@ -456,6 +456,26 @@
             "logo": "https://raw.githubusercontent.com/1Hive/dao-list/master/assets/Agitproper/logo.png",
             "logo_type": null,
             "token_logo": "https://raw.githubusercontent.com/1Hive/dao-list/master/assets/Agitproper/token_logo.png"
+        },
+        {
+            "address": "0xeeA519a1F179F047F6bde5C7dC2D046e3d98C324",
+            "name": "Unbreakable Vows",
+            "description": "Decentralized App that leverages Aragon Agreements and Celeste allowing users to create private ricardian contracts",
+            "forum": "https://forum.1hive.org",
+            "links": {
+                "community": [
+                    {}
+                ],
+                "documentation": [
+                    {}
+                ]
+            },
+            "logo": null,
+            "logo_type": null,
+            "token_logo": null,
+            "wrappableToken": {
+                "logo": "https://raw.githubusercontent.com/1Hive/dao-list/master/assets/Unbreakable Vows/wrappable_token_logo.undefined"
+            }
         }
     ]
 }
