@@ -230,6 +230,7 @@
             "token_logo": "https://raw.githubusercontent.com/1Hive/dao-list/master/assets/TECommons/logo.png",
             "logo": "https://raw.githubusercontent.com/1Hive/dao-list/master/assets/TECommons/logo.png",
             "logo_type": "https://raw.githubusercontent.com/1Hive/dao-list/master/assets/TECommons/logo_type.png",
+            "getTokenLink": "https://convert.tecommons.org/",
             "wiki": "https://token-engineering-commons.gitbook.io",
             "forum": "https://forum.tecommons.org/",
             "links": {
@@ -252,8 +253,7 @@
                     }
                 ],
                 "documentation": []
-            },
-            "getTokenLink": "https://convert.tecommons.org/"
+            }
         },
         {
             "address": "0xf7ac40a5d0933e13b346ee611d9072b6095f43fc",
@@ -262,6 +262,7 @@
             "token_logo": "https://raw.githubusercontent.com/1Hive/dao-list/master/assets/TECommons/logo.png",
             "logo": "https://raw.githubusercontent.com/1Hive/dao-list/master/assets/TECommons/logo.png",
             "logo_type": "https://raw.githubusercontent.com/1Hive/dao-list/master/assets/TECommons/logo_type.png",
+            "getTokenLink": "https://convert.tecommons.org/",
             "wiki": "https://token-engineering-commons.gitbook.io",
             "forum": "https://forum.tecommons.org/",
             "links": {
@@ -284,8 +285,7 @@
                     }
                 ],
                 "documentation": []
-            },
-            "getTokenLink": "https://convert.tecommons.org/"
+            }
         },
         {
             "address": "0x16388d99199a74810fc572049b3d4d657e7d5deb",
