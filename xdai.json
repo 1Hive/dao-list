@@ -256,6 +256,38 @@
             "getTokenLink": "https://convert.tecommons.org/"
         },
         {
+            "address": "0xf7ac40a5d0933e13b346ee611d9072b6095f43fc",
+            "name": "TECommons",
+            "description": "Enable the creation of ethical, safe, resilient and diverse economic systems to benefit societies around the world.",
+            "token_logo": "https://raw.githubusercontent.com/1Hive/dao-list/master/assets/TECommons/logo.png",
+            "logo": "https://raw.githubusercontent.com/1Hive/dao-list/master/assets/TECommons/logo.png",
+            "logo_type": "https://raw.githubusercontent.com/1Hive/dao-list/master/assets/TECommons/logo_type.png",
+            "wiki": "https://token-engineering-commons.gitbook.io",
+            "forum": "https://forum.tecommons.org/",
+            "links": {
+                "community": [
+                    {
+                        "label": "Discord",
+                        "link": "https://discord.com/invite/tjhx4rw2WK"
+                    },
+                    {
+                        "label": "Github",
+                        "link": "https://github.com/CommonsBuild"
+                    },
+                    {
+                        "label": "Twitter",
+                        "link": "https://twitter.com/tecmns"
+                    },
+                    {
+                        "label": "Forum",
+                        "link": "https://forum.tecommons.org/"
+                    }
+                ],
+                "documentation": []
+            },
+            "getTokenLink": "https://convert.tecommons.org/"
+        },
+        {
             "address": "0x16388d99199a74810fc572049b3d4d657e7d5deb",
             "name": "DRGIV3Garden",
             "description": "The decentralized governance platform for the GIVeconomy.",
