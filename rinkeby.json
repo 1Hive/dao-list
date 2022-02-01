@@ -1240,6 +1240,26 @@
             "wrappableToken": {
                 "logo": "https://raw.githubusercontent.com/1Hive/dao-list/master/assets/ElChefeGarden11/wrappable_token_logo.png"
             }
+        },
+        {
+            "address": "0xa7dEC3Cf0A79B25Ada454Afbf064806af219ED12",
+            "name": "Garden Test",
+            "description": "Garden Test",
+            "forum": "https://forum.1hive.org",
+            "links": {
+                "community": [
+                    {}
+                ],
+                "documentation": [
+                    {}
+                ]
+            },
+            "logo": "https://raw.githubusercontent.com/1Hive/dao-list/master/assets/Garden Test/logo.png",
+            "logo_type": "https://raw.githubusercontent.com/1Hive/dao-list/master/assets/Garden Test/logo_type.png",
+            "token_logo": "https://raw.githubusercontent.com/1Hive/dao-list/master/assets/Garden Test/token_logo.png",
+            "wrappableToken": {
+                "logo": "https://raw.githubusercontent.com/1Hive/dao-list/master/assets/Garden Test/wrappable_token_logo.undefined"
+            }
         }
     ]
 }
