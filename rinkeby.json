@@ -46,7 +46,8 @@
                         "link": "https://wiki.1hive.org/guides/faq"
                     }
                 ]
-            }
+            },
+            "voidedDecisions": [15]
         },
         {
             "address": "0xbb7cc1fd15eE7071f93658d5c46fEE41433A5a0B",
