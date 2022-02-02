@@ -1260,6 +1260,26 @@
             "wrappableToken": {
                 "logo": "https://raw.githubusercontent.com/1Hive/dao-list/master/assets/Garden Test/wrappable_token_logo.undefined"
             }
+        },
+        {
+            "address": "0xFD38360879dA648481c13b92Ff2cBB579865266A",
+            "name": "SILENT",
+            "description": "Next revolutionary project",
+            "forum": "https://forum.1hive.org",
+            "links": {
+                "community": [
+                    {}
+                ],
+                "documentation": [
+                    {}
+                ]
+            },
+            "logo": "https://raw.githubusercontent.com/1Hive/dao-list/master/assets/SILENT/logo.jpeg",
+            "logo_type": "https://raw.githubusercontent.com/1Hive/dao-list/master/assets/SILENT/logo_type.jpeg",
+            "token_logo": "https://raw.githubusercontent.com/1Hive/dao-list/master/assets/SILENT/token_logo.png",
+            "wrappableToken": {
+                "logo": "https://raw.githubusercontent.com/1Hive/dao-list/master/assets/SILENT/wrappable_token_logo.undefined"
+            }
         }
     ]
 }
