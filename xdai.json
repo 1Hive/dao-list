@@ -249,7 +249,8 @@
           }
         ],
         "documentation": []
-      }
+      },
+      "voidedDecisions": ["0"]
     },
     {
       "address": "0x16388d99199a74810fc572049b3d4d657e7d5deb",
