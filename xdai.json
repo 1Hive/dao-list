@@ -462,14 +462,14 @@
     {
       "address": "0x273ad546f5745d94a3e4ffde0b9290da7cca13e6",
       "name": "River",
-      "description": "A decentralized, nonprofit cooperative connecting people and orgs to fund social and environmenatl impact initiatives",
+      "description": "A nonprofit, cooperative process for funding social & environmental impact initiatives.",
       "forum": "https://community.river.coop/",
-      "wiki": "https://river.slab.com",
+      "wiki": "https://wiki.river.coop",
       "links": {
         "community": [
           {
             "link": "https://river.coop",
-            "label": "Coop"
+            "label": "Website"
           }
         ],
         "documentation": [{}]
