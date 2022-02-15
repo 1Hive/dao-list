@@ -1,39 +1,58 @@
 {
-    "gardens": [
-        {
-             "address": "0x5fdaba692f7efc5d2ab372f84d6e0c17a16534c0",
-             "name": "IdaMurni",
-             "description": "Serve own ecosystem in a multi-blockchain will giving flexibilities and opportunity to involve the future.",
-             "token_logo": null,
-             "wrappableToken": {
-                "logo": "https://raw.githubusercontent.com/1Hive/dao-list/master/assets/IdaMurni/token_logo.png"
-             },
-             "logo": "https://raw.githubusercontent.com/1Hive/dao-list/master/assets/IdaMurni/logo.png",
-             "logo_type": "https://raw.githubusercontent.com/1Hive/dao-list/master/assets/IdaMurni/logo_type.png",
-             "wiki": "https://idamurni.gitbook.io/ida/",
-             "forum": "https://forum.1hive.org/",
-             "links": {
-                 "community": [
-                     {
-                         "label": "Discord",
-                         "link": "https://discord.gg/bpnRphBxFp"
-                     },
-                     {
-                         "label": "Github",
-                         "link": "https://github.com/IdaMurni"
-                     },
-                     {
-                         "label": "Twitter",
-                         "link": "https://twitter.com/idamurni_IDA"
-                     }
-                 ],
-                 "documentation": [
-                     {
-                         "label": "Medium",
-                         "link": "https://medium.com/@idamurni"
-                     }
-                 ]
-             }
-         }
-    ]
+  "gardens": [
+    {
+      "address": "0x5fdaba692f7efc5d2ab372f84d6e0c17a16534c0",
+      "name": "IdaMurni",
+      "description": "Serve own ecosystem in a multi-blockchain will giving flexibilities and opportunity to involve the future.",
+      "token_logo": null,
+      "wrappableToken": {
+        "logo": "https://raw.githubusercontent.com/1Hive/dao-list/master/assets/IdaMurni/token_logo.png"
+      },
+      "logo": "https://raw.githubusercontent.com/1Hive/dao-list/master/assets/IdaMurni/logo.png",
+      "logo_type": "https://raw.githubusercontent.com/1Hive/dao-list/master/assets/IdaMurni/logo_type.png",
+      "wiki": "https://idamurni.gitbook.io/ida/",
+      "forum": "https://forum.1hive.org/",
+      "links": {
+        "community": [
+          {
+            "label": "Discord",
+            "link": "https://discord.gg/bpnRphBxFp"
+          },
+          {
+            "label": "Github",
+            "link": "https://github.com/IdaMurni"
+          },
+          {
+            "label": "Twitter",
+            "link": "https://twitter.com/idamurni_IDA"
+          }
+        ],
+        "documentation": [
+          {
+            "label": "Medium",
+            "link": "https://medium.com/@idamurni"
+          }
+        ]
+      }
+    },
+    {
+      "address": "0xec76d4ced23063f9ec3d80cde8a0411bfd9c890a",
+      "name": "GAIAC",
+      "description": "Connecting the blockchain to the environment through people.",
+      "token_logo": "https://raw.githubusercontent.com/1Hive/dao-list/master/assets/Gaiac/token_logo.png",
+      "logo": "https://raw.githubusercontent.com/1Hive/dao-list/master/assets/Gaiac/logo.png",
+      "logo_type": "https://raw.githubusercontent.com/1Hive/dao-list/master/assets/Gaiac/logo_type.png",
+      "wiki": "http://www.gaiacoin.org/",
+      "forum": "https://www.gaiacoin.org/group/gaia-coin-foundation-group/discussion/",
+      "links": {
+        "community": [
+          {
+            "label": "Discord",
+            "link": "https://discord.gg/6Vj5wQPC"
+          }
+        ],
+        "documentation": []
+      }
+    }
+  ]
 }
