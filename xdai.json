@@ -541,6 +541,26 @@
             "wrappableToken": {
                 "logo": "https://raw.githubusercontent.com/1Hive/dao-list/master/assets/Earth Circle TEST DAO/wrappable_token_logo.png"
             }
+        },
+        {
+            "address": "0xe1758D688575eF464fCefea249F32b03ccf2BEFD",
+            "name": "hui",
+            "description": "hui",
+            "forum": "https://forum.1hive.org",
+            "links": {
+                "community": [
+                    {}
+                ],
+                "documentation": [
+                    {}
+                ]
+            },
+            "logo": null,
+            "logo_type": null,
+            "token_logo": null,
+            "wrappableToken": {
+                "logo": "https://raw.githubusercontent.com/1Hive/dao-list/master/assets/hui/wrappable_token_logo.undefined"
+            }
         }
     ]
 }
