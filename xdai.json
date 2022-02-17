@@ -521,6 +521,26 @@
             "wrappableToken": {
                 "logo": "https://raw.githubusercontent.com/1Hive/dao-list/master/assets/Daoland/wrappable_token_logo.undefined"
             }
+        },
+        {
+            "address": "0x3b80B7b51B9e7D959aF67E5261356a2d5F6EbEC9",
+            "name": "Earth Circle TEST DAO",
+            "description": "Growing the universal basic income economy",
+            "forum": "https://aboutcircles.com",
+            "links": {
+                "community": [
+                    {}
+                ],
+                "documentation": [
+                    {}
+                ]
+            },
+            "logo": "https://raw.githubusercontent.com/1Hive/dao-list/master/assets/Earth Circle TEST DAO/logo.png",
+            "logo_type": null,
+            "token_logo": "https://raw.githubusercontent.com/1Hive/dao-list/master/assets/Earth Circle TEST DAO/token_logo.png",
+            "wrappableToken": {
+                "logo": "https://raw.githubusercontent.com/1Hive/dao-list/master/assets/Earth Circle TEST DAO/wrappable_token_logo.png"
+            }
         }
     ]
 }
