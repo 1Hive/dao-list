@@ -561,6 +561,30 @@
             "wrappableToken": {
                 "logo": "https://raw.githubusercontent.com/1Hive/dao-list/master/assets/hui/wrappable_token_logo.undefined"
             }
+        },
+        {
+            "address": "0xE1E85dD2E48C76607cC11c9A59a171f67eD8b123",
+            "name": "DataUnion governance DAO",
+            "description": "This is the DAO we use to test, understand, improve, and use decentralised governance for our meetings & governance.",
+            "forum": "https://forum.1hive.org",
+            "links": {
+                "community": [
+                    {
+                        "link": "https://discord.com/invite/Jm9C3yD8Sd"
+                    }
+                ],
+                "documentation": [
+                    {
+                        "link": "https://dataunion.app"
+                    }
+                ]
+            },
+            "logo": "https://raw.githubusercontent.com/1Hive/dao-list/master/assets/DataUnion governance DAO/logo.jpeg",
+            "logo_type": "https://raw.githubusercontent.com/1Hive/dao-list/master/assets/DataUnion governance DAO/logo_type.jpeg",
+            "token_logo": "https://raw.githubusercontent.com/1Hive/dao-list/master/assets/DataUnion governance DAO/token_logo.jpeg",
+            "wrappableToken": {
+                "logo": "https://raw.githubusercontent.com/1Hive/dao-list/master/assets/DataUnion governance DAO/wrappable_token_logo.undefined"
+            }
         }
     ]
 }
