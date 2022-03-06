@@ -47,7 +47,9 @@
                     }
                 ]
             },
-            "voidedDecisions": ["15"]
+            "voidedDecisions": [
+                "15"
+            ]
         },
         {
             "address": "0xbb7cc1fd15eE7071f93658d5c46fEE41433A5a0B",
@@ -1280,6 +1282,26 @@
             "token_logo": "https://raw.githubusercontent.com/1Hive/dao-list/master/assets/SILENT/token_logo.png",
             "wrappableToken": {
                 "logo": "https://raw.githubusercontent.com/1Hive/dao-list/master/assets/SILENT/wrappable_token_logo.undefined"
+            }
+        },
+        {
+            "address": "0x4f1FE6e5979a1467e887c7B399DB693e4D1554F5",
+            "name": "sag",
+            "description": "gasgagsa",
+            "forum": "https://forum.1hive.org",
+            "links": {
+                "community": [
+                    {}
+                ],
+                "documentation": [
+                    {}
+                ]
+            },
+            "logo": null,
+            "logo_type": null,
+            "token_logo": null,
+            "wrappableToken": {
+                "logo": "https://raw.githubusercontent.com/1Hive/dao-list/master/assets/sag/wrappable_token_logo.undefined"
             }
         }
     ]
