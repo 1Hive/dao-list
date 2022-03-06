@@ -1303,6 +1303,26 @@
             "wrappableToken": {
                 "logo": "https://raw.githubusercontent.com/1Hive/dao-list/master/assets/sag/wrappable_token_logo.undefined"
             }
+        },
+        {
+            "address": "0xeCB1bdFdCf3E85C1E7d972e8942a6dD1571F7Fff",
+            "name": "Valweb",
+            "description": "Valeweb garden description",
+            "forum": "https://forum.1hive.org",
+            "links": {
+                "community": [
+                    {}
+                ],
+                "documentation": [
+                    {}
+                ]
+            },
+            "logo": null,
+            "logo_type": null,
+            "token_logo": null,
+            "wrappableToken": {
+                "logo": "https://raw.githubusercontent.com/1Hive/dao-list/master/assets/Valweb/wrappable_token_logo.undefined"
+            }
         }
     ]
 }
