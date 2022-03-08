@@ -585,6 +585,36 @@
             "wrappableToken": {
                 "logo": "https://raw.githubusercontent.com/1Hive/dao-list/master/assets/DataUnion governance DAO/wrappable_token_logo.undefined"
             }
+        },
+        {
+            "address": "0xB35Cee4D738D9DB54E0f03FA45cDD05E7750e723",
+            "name": "NFTsDAO",
+            "description": "NFTsDAO is an innovation studio and creator community seeking to elevate the next generation of influencers.",
+            "forum": "https://forum.nftsdao.com/",
+            "links": {
+                "community": [
+                    {
+                        "link": "https://www.nftsdao.com/",
+                        "label": "Homepage"
+                    },
+                    {
+                        "link": "https://twitter.com/NFTsDAO",
+                        "label": "Twitter"
+                    }
+                ],
+                "documentation": [
+                    {
+                        "link": "https://www.linkedin.com/company/nftsdao/",
+                        "label": "LinkedIn"
+                    }
+                ]
+            },
+            "logo": "https://raw.githubusercontent.com/1Hive/dao-list/master/assets/NFTsDAO/logo.jpeg",
+            "logo_type": "https://raw.githubusercontent.com/1Hive/dao-list/master/assets/NFTsDAO/logo_type.jpeg",
+            "token_logo": "https://raw.githubusercontent.com/1Hive/dao-list/master/assets/NFTsDAO/token_logo.jpeg",
+            "wrappableToken": {
+                "logo": "https://raw.githubusercontent.com/1Hive/dao-list/master/assets/NFTsDAO/wrappable_token_logo.undefined"
+            }
         }
     ]
 }
