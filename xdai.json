@@ -573,8 +573,8 @@
           }
         ]
       },
-      "logo": "https://raw.githubusercontent.com/1Hive/dao-list/master/assets/NFTsDAO/logo.jpeg",
-      "logo_type": "https://raw.githubusercontent.com/1Hive/dao-list/master/assets/NFTsDAO/logo_type.jpeg",
+      "logo": "https://raw.githubusercontent.com/1Hive/dao-list/master/assets/NFTsDAO/logo.png",
+      "logo_type": "https://raw.githubusercontent.com/1Hive/dao-list/master/assets/NFTsDAO/logo_type.png",
       "token_logo": null,
       "wrappableToken": {
         "logo": null
