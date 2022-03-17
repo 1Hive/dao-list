@@ -643,6 +643,26 @@
             "wrappableToken": {
                 "logo": "https://raw.githubusercontent.com/1Hive/dao-list/master/assets/Circles DAO/wrappable_token_logo.png"
             }
+        },
+        {
+            "address": "0x5292BD542ADeB984B8Bb2Badaf6755D4D1c64B0F",
+            "name": "Tender Money",
+            "description": "A well-tended garden",
+            "forum": "https://forum.1hive.org",
+            "links": {
+                "community": [
+                    {}
+                ],
+                "documentation": [
+                    {}
+                ]
+            },
+            "logo": null,
+            "logo_type": null,
+            "token_logo": "https://raw.githubusercontent.com/1Hive/dao-list/master/assets/Tender Money/token_logo.png",
+            "wrappableToken": {
+                "logo": "https://raw.githubusercontent.com/1Hive/dao-list/master/assets/Tender Money/wrappable_token_logo.undefined"
+            }
         }
     ]
 }
