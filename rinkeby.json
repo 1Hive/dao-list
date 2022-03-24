@@ -1343,6 +1343,26 @@
             "wrappableToken": {
                 "logo": "https://raw.githubusercontent.com/1Hive/dao-list/master/assets/TestRodrigo/wrappable_token_logo.undefined"
             }
+        },
+        {
+            "address": "0x890717D9B7Ee3188CC9459180a1E2F2B5E4d3Bc2",
+            "name": "RodrigoTest3",
+            "description": "test",
+            "forum": "https://forum.1hive.org",
+            "links": {
+                "community": [
+                    {}
+                ],
+                "documentation": [
+                    {}
+                ]
+            },
+            "logo": null,
+            "logo_type": null,
+            "token_logo": null,
+            "wrappableToken": {
+                "logo": "https://raw.githubusercontent.com/1Hive/dao-list/master/assets/RodrigoTest3/wrappable_token_logo.undefined"
+            }
         }
     ]
 }
