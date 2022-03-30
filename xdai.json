@@ -663,6 +663,29 @@
             "wrappableToken": {
                 "logo": "https://raw.githubusercontent.com/1Hive/dao-list/master/assets/Tender Money/wrappable_token_logo.undefined"
             }
+        },
+        {
+            "address": "0x949338b081CC722ae691b897FD0bc5a884405d14",
+            "name": "Hero DAO",
+            "description": "A garden for the sidekicks building a community owned super hero franchise ",
+            "forum": "https://forum.1hive.org",
+            "links": {
+                "community": [
+                    {
+                        "link": "https://herodao.org",
+                        "label": "Homepage"
+                    }
+                ],
+                "documentation": [
+                    {}
+                ]
+            },
+            "logo": "https://raw.githubusercontent.com/1Hive/dao-list/master/assets/Hero DAO/logo.png",
+            "logo_type": "https://raw.githubusercontent.com/1Hive/dao-list/master/assets/Hero DAO/logo_type.png",
+            "token_logo": "https://raw.githubusercontent.com/1Hive/dao-list/master/assets/Hero DAO/token_logo.png",
+            "wrappableToken": {
+                "logo": "https://raw.githubusercontent.com/1Hive/dao-list/master/assets/Hero DAO/wrappable_token_logo.png"
+            }
         }
     ]
 }
