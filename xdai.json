@@ -686,6 +686,29 @@
             "wrappableToken": {
                 "logo": "https://raw.githubusercontent.com/1Hive/dao-list/master/assets/Hero DAO/wrappable_token_logo.png"
             }
+        },
+        {
+            "address": "0x89b00383E329E7c4c16aF5213FeAB9ce47deaAd4",
+            "name": "MapsDAO",
+            "description": "Map the future, build it",
+            "forum": "https://forum.1hive.org",
+            "links": {
+                "community": [
+                    {}
+                ],
+                "documentation": [
+                    {
+                        "link": "https://github.com/mapsdao",
+                        "label": "Github"
+                    }
+                ]
+            },
+            "logo": null,
+            "logo_type": null,
+            "token_logo": null,
+            "wrappableToken": {
+                "logo": "https://raw.githubusercontent.com/1Hive/dao-list/master/assets/MapsDAO/wrappable_token_logo.undefined"
+            }
         }
     ]
 }
