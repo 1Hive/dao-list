@@ -53,6 +53,41 @@
         ],
         "documentation": []
       }
+    },
+    {
+      "address": "0x963d4a1cd9fb345a624e46c9470df572f0b35a72",
+      "name": "CRYPTOMURALS",
+      "description": "CRYTPOMURALS is a curated and animated NFT collection of geolocated street art murals arround the world.",
+      "token_logo": "https://raw.githubusercontent.com/1Hive/dao-list/master/assets/CRYPTOMURALS/cm-token.png",
+      "logo": "https://raw.githubusercontent.com/1Hive/dao-list/master/assets/CRYPTOMURALS/cm-logo.png",
+      "logo_type": "https://raw.githubusercontent.com/1Hive/dao-list/master/assets/CRYPTOMURALS/cm-garden-logo.png",
+      "forum": "https://forum.cryptomurals.xyz",
+      "links": {
+        "documentation": [
+          {
+            "label": "Homepage",
+            "link": "https://cryptomurals.xyz"
+          },
+          {
+            "label": "Whitepaper",
+            "link": "https://cryptomurals.xyz/Whitepaper_CRYPTOMURALS_v1_2022.pdf"
+          }
+        ],
+        "community": [
+          {
+            "label": "Discord",
+            "link": "https://discord.gg/rv5kY7dGE4"
+          },
+          {
+            "label": "Twitter",
+            "link": "https://twitter.com/cryptomurals"
+          },
+          {
+            "label": "Instagram",
+            "link": "https://www.instagram.com/cryptomurals/"
+          }
+        ]
+      }
     }
   ]
 }
