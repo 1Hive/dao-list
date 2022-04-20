@@ -1383,6 +1383,26 @@
             "wrappableToken": {
                 "logo": "https://raw.githubusercontent.com/1Hive/dao-list/master/assets/Anup Test/wrappable_token_logo.undefined"
             }
+        },
+        {
+            "address": "0xCfD2477007e3C9E0C8C35471f5a2c60Ec3F6D987",
+            "name": "Anup test 2",
+            "description": "Anup test 2",
+            "forum": "https://forum.1hive.org",
+            "links": {
+                "community": [
+                    {}
+                ],
+                "documentation": [
+                    {}
+                ]
+            },
+            "logo": null,
+            "logo_type": null,
+            "token_logo": null,
+            "wrappableToken": {
+                "logo": "https://raw.githubusercontent.com/1Hive/dao-list/master/assets/Anup test 2/wrappable_token_logo.undefined"
+            }
         }
     ]
 }
