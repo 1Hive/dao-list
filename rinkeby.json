@@ -1403,6 +1403,26 @@
             "wrappableToken": {
                 "logo": "https://raw.githubusercontent.com/1Hive/dao-list/master/assets/Anup test 2/wrappable_token_logo.undefined"
             }
+        },
+        {
+            "address": "0x533043797D9d86B03e7Ca846ac5884E0D49f5fb0",
+            "name": "Delta",
+            "description": "Proyecto Delta",
+            "forum": "https://forum.1hive.org",
+            "links": {
+                "community": [
+                    {}
+                ],
+                "documentation": [
+                    {}
+                ]
+            },
+            "logo": null,
+            "logo_type": null,
+            "token_logo": null,
+            "wrappableToken": {
+                "logo": "https://raw.githubusercontent.com/1Hive/dao-list/master/assets/Delta/wrappable_token_logo.undefined"
+            }
         }
     ]
 }
