@@ -1423,6 +1423,36 @@
             "wrappableToken": {
                 "logo": "https://raw.githubusercontent.com/1Hive/dao-list/master/assets/Delta/wrappable_token_logo.undefined"
             }
+        },
+        {
+            "address": "0x94B1B53c0E8AcA400943E3ab1b10f4A847bC2389",
+            "name": "Atelier",
+            "description": "Our mission is to facilitate the onboarding of creative teams onto the blockchain.",
+            "forum": "https://forum.1hive.org",
+            "links": {
+                "community": [
+                    {
+                        "link": "https://www.twitter.com//The_AAAlliance_",
+                        "label": "twitter"
+                    },
+                    {
+                        "link": "https://discord.gg/N8s72UJ3Y6",
+                        "label": "discord"
+                    }
+                ],
+                "documentation": [
+                    {
+                        "link": "https://www.theaaalliance.com",
+                        "label": "web"
+                    }
+                ]
+            },
+            "logo": "https://raw.githubusercontent.com/1Hive/dao-list/master/assets/Atelier/logo.png",
+            "logo_type": "https://raw.githubusercontent.com/1Hive/dao-list/master/assets/Atelier/logo_type.png",
+            "token_logo": null,
+            "wrappableToken": {
+                "logo": "https://raw.githubusercontent.com/1Hive/dao-list/master/assets/Atelier/wrappable_token_logo.undefined"
+            }
         }
     ]
 }
