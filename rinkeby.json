@@ -1453,6 +1453,26 @@
             "wrappableToken": {
                 "logo": "https://raw.githubusercontent.com/1Hive/dao-list/master/assets/Atelier/wrappable_token_logo.undefined"
             }
+        },
+        {
+            "address": "0x3EC37664986c81fD943dF981178039FBc28Bd39B",
+            "name": "Flow Controller Test",
+            "description": "Flow Controller Test",
+            "forum": "https://forum.1hive.org",
+            "links": {
+                "community": [
+                    {}
+                ],
+                "documentation": [
+                    {}
+                ]
+            },
+            "logo": null,
+            "logo_type": null,
+            "token_logo": null,
+            "wrappableToken": {
+                "logo": "https://raw.githubusercontent.com/1Hive/dao-list/master/assets/Flow Controller Test/wrappable_token_logo.undefined"
+            }
         }
     ]
 }
