@@ -1473,6 +1473,32 @@
             "wrappableToken": {
                 "logo": "https://raw.githubusercontent.com/1Hive/dao-list/master/assets/Flow Controller Test/wrappable_token_logo.undefined"
             }
+        },
+        {
+            "address": "0xD6F98B0712bF60A34D273Ee7E5425005cb513D4E",
+            "name": "2 minut Tutorial",
+            "description": "Description of my DAO",
+            "forum": "https://linktomyforum.com",
+            "links": {
+                "community": [
+                    {
+                        "link": "http://twitter.com",
+                        "label": "Twitter"
+                    }
+                ],
+                "documentation": [
+                    {
+                        "link": "http://legaldocs.com",
+                        "label": "legal"
+                    }
+                ]
+            },
+            "logo": null,
+            "logo_type": null,
+            "token_logo": null,
+            "wrappableToken": {
+                "logo": "https://raw.githubusercontent.com/1Hive/dao-list/master/assets/2 minut Tutorial/wrappable_token_logo.undefined"
+            }
         }
     ]
 }
