@@ -1499,6 +1499,26 @@
             "wrappableToken": {
                 "logo": "https://raw.githubusercontent.com/1Hive/dao-list/master/assets/2 minut Tutorial/wrappable_token_logo.undefined"
             }
+        },
+        {
+            "address": "0xfE5070Ace50CC51a4c5a5c54b5d8FBE846d44c60",
+            "name": "Traibylon",
+            "description": "Testing and learning",
+            "forum": "https://forum.1hive.org",
+            "links": {
+                "community": [
+                    {}
+                ],
+                "documentation": [
+                    {}
+                ]
+            },
+            "logo": "https://raw.githubusercontent.com/1Hive/dao-list/master/assets/Traibylon/logo.png",
+            "logo_type": null,
+            "token_logo": "https://raw.githubusercontent.com/1Hive/dao-list/master/assets/Traibylon/token_logo.jpeg",
+            "wrappableToken": {
+                "logo": "https://raw.githubusercontent.com/1Hive/dao-list/master/assets/Traibylon/wrappable_token_logo.undefined"
+            }
         }
     ]
 }
