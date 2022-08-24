@@ -5,8 +5,10 @@
             "name": "1Hive",
             "description": "A sufficiently decentralized, self-improving system, limited only by the community's collective imagination.",
             "token_logo": "https://raw.githubusercontent.com/1Hive/dao-list/master/assets/1Hive/token_logo.png",
+            "token_logo_dark": "https://raw.githubusercontent.com/1Hive/dao-list/master/assets/1Hive/token_logo_dark.png",
             "logo": "https://raw.githubusercontent.com/1Hive/dao-list/master/assets/1Hive/logo.png",
             "logo_type": "https://raw.githubusercontent.com/1Hive/dao-list/master/assets/1Hive/logo_type.png",
+            "logo_type_dark": "https://raw.githubusercontent.com/1Hive/dao-list/master/assets/1Hive/logo_type_dark.png",
             "wiki": "https://1hive.gitbook.io/1hive/",
             "forum": "https://forum.1hive.org/",
             "links": {
