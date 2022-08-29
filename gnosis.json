@@ -711,6 +711,28 @@
             "wrappableToken": {
                 "logo": "https://raw.githubusercontent.com/1Hive/dao-list/master/assets/MapsDAO/wrappable_token_logo.undefined"
             }
+        },
+        {
+            "address": "0x83420Bb5d610D6667F6774754C65B0fB9C1e1A1e",
+            "name": "Jardin Del Xocolatl",
+            "description": "Experimento del PipilaDAO",
+            "forum": "https://forum.1hive.org",
+            "links": {
+                "community": [
+                    {
+                        "link": "https://pipiladao.org"
+                    }
+                ],
+                "documentation": [
+                    {}
+                ]
+            },
+            "logo": null,
+            "logo_type": null,
+            "token_logo": null,
+            "wrappableToken": {
+                "logo": "https://raw.githubusercontent.com/1Hive/dao-list/master/assets/Jardin Del Xocolatl/wrappable_token_logo.undefined"
+            }
         }
     ]
 }
