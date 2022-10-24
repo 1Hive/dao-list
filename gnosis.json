@@ -735,6 +735,48 @@
             "wrappableToken": {
                 "logo": "https://raw.githubusercontent.com/1Hive/dao-list/master/assets/Jardin Del Xocolatl/wrappable_token_logo.undefined"
             }
+        },
+        {
+            "address": "0xd0CC7D88E5342c2e7688Ecd40ffBAcF36f6724d7",
+            "name": "TreeHouseDAO",
+            "description": "Buidling a Regenerative Worldwide Culture with Regenerative Narratives ",
+            "forum": "https://forum.1hive.org",
+            "links": {
+                "community": [
+                    {
+                        "link": "http://www.treehousedao.earth/",
+                        "label": "Web"
+                    },
+                    {
+                        "link": "",
+                        "label": "Telegram"
+                    },
+                    {
+                        "link": "https://gitcoin.co/grants/7656/dao-solarpunk-regen-village-builders-book",
+                        "label": "Gitcoin"
+                    },
+                    {
+                        "link": "https://twitter.com/daotreehouse",
+                        "label": "Twitter"
+                    }
+                ],
+                "documentation": [
+                    {
+                        "link": "https://antique-gatsby-fe2.notion.site/TreeHouseDAO-Gov-Econ-model-d73cc830e83e4af3a751fbbb32867a2f",
+                        "label": "Notion"
+                    },
+                    {
+                        "link": "https://www.figma.com/file/1R6jvj2KwrNZ08U1MriYa7/Playground--Regenerative-Book---TDF",
+                        "label": "Figma (draft Book)"
+                    }
+                ]
+            },
+            "logo": "https://raw.githubusercontent.com/1Hive/dao-list/master/assets/TreeHouseDAO/logo.png",
+            "logo_type": "https://raw.githubusercontent.com/1Hive/dao-list/master/assets/TreeHouseDAO/logo_type.png",
+            "token_logo": "https://raw.githubusercontent.com/1Hive/dao-list/master/assets/TreeHouseDAO/token_logo.png",
+            "wrappableToken": {
+                "logo": "https://raw.githubusercontent.com/1Hive/dao-list/master/assets/TreeHouseDAO/wrappable_token_logo.undefined"
+            }
         }
     ]
 }
