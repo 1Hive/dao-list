@@ -777,6 +777,26 @@
             "wrappableToken": {
                 "logo": "https://raw.githubusercontent.com/1Hive/dao-list/master/assets/TreeHouseDAO/wrappable_token_logo.undefined"
             }
+        },
+        {
+            "address": "0x665408f5DD28dB22F87946A88c231966Eb0430e2",
+            "name": "mitchGarden",
+            "description": "this is mitch's garden",
+            "forum": "https://forum.1hive.org",
+            "links": {
+                "community": [
+                    {}
+                ],
+                "documentation": [
+                    {}
+                ]
+            },
+            "logo": null,
+            "logo_type": null,
+            "token_logo": null,
+            "wrappableToken": {
+                "logo": "https://raw.githubusercontent.com/1Hive/dao-list/master/assets/mitchGarden/wrappable_token_logo.undefined"
+            }
         }
     ]
 }
