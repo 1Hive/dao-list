@@ -797,6 +797,26 @@
             "wrappableToken": {
                 "logo": "https://raw.githubusercontent.com/1Hive/dao-list/master/assets/mitchGarden/wrappable_token_logo.undefined"
             }
+        },
+        {
+            "address": "0x4091aE06A27bDaaBBF88dE4c330fAA90904b429E",
+            "name": "mitch garden two",
+            "description": "this is the second best gardens",
+            "forum": "https://forum.1hive.org",
+            "links": {
+                "community": [
+                    {}
+                ],
+                "documentation": [
+                    {}
+                ]
+            },
+            "logo": null,
+            "logo_type": null,
+            "token_logo": null,
+            "wrappableToken": {
+                "logo": "https://raw.githubusercontent.com/1Hive/dao-list/master/assets/mitch garden two/wrappable_token_logo.undefined"
+            }
         }
     ]
 }
