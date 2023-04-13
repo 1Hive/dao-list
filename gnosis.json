@@ -817,6 +817,26 @@
             "wrappableToken": {
                 "logo": "https://raw.githubusercontent.com/1Hive/dao-list/master/assets/mitch garden two/wrappable_token_logo.undefined"
             }
+        },
+        {
+            "address": "0xd006AB4235fa2c94889F0d884EBd92f33a4045E6",
+            "name": "hiveWater",
+            "description": "We provide scalable, sustainable liquidity for 1Hive's Honey token using hiveWATER as a proxy for its liquidity.",
+            "forum": "https://forum.1hive.org/",
+            "links": {
+                "community": [
+                    {}
+                ],
+                "documentation": [
+                    {}
+                ]
+            },
+            "logo": "https://raw.githubusercontent.com/1Hive/dao-list/master/assets/hiveWater/logo.png",
+            "logo_type": "https://raw.githubusercontent.com/1Hive/dao-list/master/assets/hiveWater/logo_type.png",
+            "token_logo": "https://raw.githubusercontent.com/1Hive/dao-list/master/assets/hiveWater/token_logo.png",
+            "wrappableToken": {
+                "logo": "https://raw.githubusercontent.com/1Hive/dao-list/master/assets/hiveWater/wrappable_token_logo.undefined"
+            }
         }
     ]
 }
