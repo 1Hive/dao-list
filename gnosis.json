@@ -863,6 +863,26 @@
             "wrappableToken": {
                 "logo": "https://raw.githubusercontent.com/1Hive/dao-list/master/assets/hiveWater2/wrappable_token_logo.png"
             }
+        },
+        {
+            "address": "0xE01E4ACA95DC1e51Ce4d32EA3eDC68F56BAda5B9",
+            "name": "test in prod",
+            "description": "here's where fine men and women go to test in prod",
+            "forum": "https://forum.1hive.org",
+            "links": {
+                "community": [
+                    {}
+                ],
+                "documentation": [
+                    {}
+                ]
+            },
+            "logo": "https://raw.githubusercontent.com/1Hive/dao-list/master/assets/test in prod/logo.png",
+            "logo_type": "https://raw.githubusercontent.com/1Hive/dao-list/master/assets/test in prod/logo_type.png",
+            "token_logo": "https://raw.githubusercontent.com/1Hive/dao-list/master/assets/test in prod/token_logo.png",
+            "wrappableToken": {
+                "logo": "https://raw.githubusercontent.com/1Hive/dao-list/master/assets/test in prod/wrappable_token_logo.png"
+            }
         }
     ]
 }
