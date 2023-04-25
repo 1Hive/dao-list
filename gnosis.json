@@ -883,6 +883,26 @@
             "wrappableToken": {
                 "logo": "https://raw.githubusercontent.com/1Hive/dao-list/master/assets/test in prod/wrappable_token_logo.png"
             }
+        },
+        {
+            "address": "0x70a74A4130aE62D842fF97D70120Bdb67Cb10414",
+            "name": "just want a fundsManager dawg",
+            "description": "pay no mind",
+            "forum": "https://forum.1hive.org",
+            "links": {
+                "community": [
+                    {}
+                ],
+                "documentation": [
+                    {}
+                ]
+            },
+            "logo": null,
+            "logo_type": null,
+            "token_logo": null,
+            "wrappableToken": {
+                "logo": "https://raw.githubusercontent.com/1Hive/dao-list/master/assets/just want a fundsManager dawg/wrappable_token_logo.undefined"
+            }
         }
     ]
 }
