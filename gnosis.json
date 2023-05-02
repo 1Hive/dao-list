@@ -903,6 +903,29 @@
             "wrappableToken": {
                 "logo": "https://raw.githubusercontent.com/1Hive/dao-list/master/assets/just want a fundsManager dawg/wrappable_token_logo.undefined"
             }
+        },
+        {
+            "address": "0xb4Cc3B50a67918910189eEbA48d426D5F23a6296",
+            "name": "hiveWater3",
+            "description": "We provide sustainable, scalable liquidity for 1Hive's Honey token using hiveWATER as a proxy for its liquidity.",
+            "forum": "https://forum.1hive.org/",
+            "links": {
+                "community": [
+                    {
+                        "link": "https://discord.gg/Buu3hTDXmk",
+                        "label": "Discord"
+                    }
+                ],
+                "documentation": [
+                    {}
+                ]
+            },
+            "logo": "https://raw.githubusercontent.com/1Hive/dao-list/master/assets/hiveWater3/logo.png",
+            "logo_type": "https://raw.githubusercontent.com/1Hive/dao-list/master/assets/hiveWater3/logo_type.png",
+            "token_logo": "https://raw.githubusercontent.com/1Hive/dao-list/master/assets/hiveWater3/token_logo.png",
+            "wrappableToken": {
+                "logo": "https://raw.githubusercontent.com/1Hive/dao-list/master/assets/hiveWater3/wrappable_token_logo.png"
+            }
         }
     ]
 }
