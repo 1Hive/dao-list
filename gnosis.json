@@ -906,7 +906,7 @@
         },
         {
             "address": "0xb4Cc3B50a67918910189eEbA48d426D5F23a6296",
-            "name": "hiveWater3",
+            "name": "hiveWater",
             "description": "We provide sustainable, scalable liquidity for 1Hive's Honey token using hiveWATER as a proxy for its liquidity.",
             "forum": "https://forum.1hive.org/",
             "links": {
