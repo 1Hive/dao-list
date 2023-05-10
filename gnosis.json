@@ -824,6 +824,7 @@
             "description": "We provide sustainable, scalable liquidity for 1Hive's Honey token using hiveWATER as a proxy for its liquidity.",
             "getTokenLink":"https://app.honeyswap.org/#/add/0x761B7Bf075a19d4bB55BC4E8ad59a4D1F5261ceb/0x71850b7E9Ee3f13Ab46d67167341E4bDc905Eef9/",
             "getTokenDescription": "HWATER-LP",
+            "useCommonPoolTokenPrice": "true",
             "forum": "https://forum.1hive.org/",
             "links": {
                 "community": [
