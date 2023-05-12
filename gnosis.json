@@ -866,6 +866,26 @@
             "wrappableToken": {
                 "logo": "https://raw.githubusercontent.com/1Hive/dao-list/master/assets/hivewater test/wrappable_token_logo.undefined"
             }
+        },
+        {
+            "address": "0xCdd9412236d8fD43cF2FD1bfB4Cf67681b74026D",
+            "name": "2 hivewater test",
+            "description": "more tests ",
+            "forum": "https://forum.1hive.org",
+            "links": {
+                "community": [
+                    {}
+                ],
+                "documentation": [
+                    {}
+                ]
+            },
+            "logo": null,
+            "logo_type": null,
+            "token_logo": null,
+            "wrappableToken": {
+                "logo": "https://raw.githubusercontent.com/1Hive/dao-list/master/assets/2 hivewater test/wrappable_token_logo.undefined"
+            }
         }
     ]
 }
