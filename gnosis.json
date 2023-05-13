@@ -886,6 +886,32 @@
             "wrappableToken": {
                 "logo": "https://raw.githubusercontent.com/1Hive/dao-list/master/assets/2 hivewater test/wrappable_token_logo.undefined"
             }
+        },
+        {
+            "address": "0xeB24257a74Fbea7972Cb408ED4fF33e6464374AB",
+            "name": "hiveWater6",
+            "description": "We provide sustainable, scalable liquidity for 1Hive's Honey token using hiveWater as a proxy for its liquidity.",
+            "forum": "https://forum.1hive.org/",
+            "links": {
+                "community": [
+                    {
+                        "link": "https://discord.gg/Buu3hTDXmk",
+                        "label": "Discord"
+                    }
+                ],
+                "documentation": [
+                    {
+                        "link": "https://forum.1hive.org/t/hivewater-an-experiment-in-sustainable-liquidity-for-honey/5474",
+                        "label": "Original Proposal"
+                    }
+                ]
+            },
+            "logo": "https://raw.githubusercontent.com/1Hive/dao-list/master/assets/hiveWater6/logo.png",
+            "logo_type": "https://raw.githubusercontent.com/1Hive/dao-list/master/assets/hiveWater6/logo_type.png",
+            "token_logo": "https://raw.githubusercontent.com/1Hive/dao-list/master/assets/hiveWater6/token_logo.png",
+            "wrappableToken": {
+                "logo": "https://raw.githubusercontent.com/1Hive/dao-list/master/assets/hiveWater6/wrappable_token_logo.png"
+            }
         }
     ]
 }
