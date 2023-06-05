@@ -846,6 +846,26 @@
             "wrappableToken": {
                 "logo": "https://raw.githubusercontent.com/1Hive/dao-list/master/assets/hiveWater/wrappable_token_logo.png"
             }
+        },
+        {
+            "address": "0x20dF7792C64a7dF982A41881d3F4589881F558f7",
+            "name": "MyDAO",
+            "description": "This is a test DAO",
+            "forum": "https://forum.1hive.org",
+            "links": {
+                "community": [
+                    {}
+                ],
+                "documentation": [
+                    {}
+                ]
+            },
+            "logo": null,
+            "logo_type": null,
+            "token_logo": null,
+            "wrappableToken": {
+                "logo": "https://raw.githubusercontent.com/1Hive/dao-list/master/assets/MyDAO/wrappable_token_logo.undefined"
+            }
         }
     ]
 }
